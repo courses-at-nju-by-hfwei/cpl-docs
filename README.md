@@ -2,9 +2,15 @@
 
 ## 须知
 
+### Sakiyary @ 2022/9/3 记录
+
+搭建了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架, 并在本地部署, 等待部署至`阿里云`上开启公网访问.
+
+目前将 `CPL课程必读&索引文档` 拆分成了多个 Markdown 文件 (即多个页面), 并删减掉部分冗余文档.
+
 ### Sakiyary @ 2022/8/23 记录
 
-目前已完成[CPL课程必读&索引文档](https://github.com/courses-at-nju-by-hfwei/c-pl-docs/blob/main/CPL-Must-read-Index-Doc.md)的提纲, 用 Typora 编写并使用了其扩展语法 (如 Highlight 语法`==something==`), 在 GitHub 上无法渲染.
+目前已完成~~[CPL课程必读&索引文档](https://github.com/courses-at-nju-by-hfwei/c-pl-docs/blob/main/CPL-Must-read-Index-Doc.md)~~的提纲, 用 Typora 编写并使用了其扩展语法 (如 Highlight 语法`==something==`), 在 GitHub 上无法渲染.
 
 在还没有详细写完整的地方都补充了 `(TODO: something)` , 欢迎各位补充与校对. 
 
