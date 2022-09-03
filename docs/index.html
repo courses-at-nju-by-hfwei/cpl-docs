@@ -23,6 +23,7 @@
     :root {
       --link-text-decoration-color: #659ad2;
       --link-text-decoration-color--hover: #00599c;
+      --content-max-width: 81em;
     }
   </style>
 </head>
@@ -40,8 +41,8 @@
         noData: '找不到结果!',
       },
       homepage: 'Introduction.md',
-      nameLink: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs',
-      repo: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs',
+      nameLink: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs/',
+      repo: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs/',
       themeColor: '#659ad2',
       mergeNavbar: true,
       maxLevel: 3,
@@ -59,13 +60,24 @@
         tabComments: true,      // default
         tabHeadings: true       // default
       },
+      copyCode: {
+        buttonText: '复制到剪贴板',
+        errorText: '复制失败',
+        successText: '复制成功!'
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>

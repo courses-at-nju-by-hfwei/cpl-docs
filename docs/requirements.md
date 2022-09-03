@@ -4,7 +4,7 @@
 
 
 
-!> [请查阅: 学术诚信 (什么事情能做 :smiley:, 什么不能 :rage:)](http://integrity.mit.edu/)
+!> 请查阅: [学术诚信 (什么事情能做 :smiley:, 什么不能 :rage:)](http://integrity.mit.edu/)
 
 (TODO: 抄袭的定义, 抄袭的警告机制与惩罚机制, 杜绝抄袭)
 
