@@ -1,6 +1,6 @@
-- [C 语言程序设计基础](Introduction)
+- [C语言程序设计基础](Introduction)
 - [课程要求](requirements)
 - [教材选购](textbook)
-- [C 语言环境配置 ! ! !](environments)
+- [C语言环境配置 ! ! !](environments)
 - [其他教程](otherguides)
 - [准备开学!](ending)
