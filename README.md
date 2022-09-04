@@ -25,7 +25,7 @@
 
 ### shuilongzhihun @ 2022/9/4
 
-由于域名备案需要时间, 故先部署在 http://cpl.azifans.club/ 上.
+由于域名备案需要时间, 故先部署在 http://cpl.azifan.club/ 上.
 
 ### Sakiyary @ 2022/9/3
 
