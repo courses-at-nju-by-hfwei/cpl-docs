@@ -8,10 +8,6 @@
   <meta name="description" content="C语言程序设计基础-课程文档@南京大学软件学院">
   <meta name="viewport"
     content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
 
   <!-- Themes vue -->
   <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
@@ -25,8 +21,10 @@
   <!-- Custom Styles -->
   <style>
     :root {
-      --link-text-decoration-color: #659ad2;
-      --link-text-decoration-color--hover: #00599c;
+      --link-color: #659ad2;
+      --link-color--hover: #00599c;
+      --link-text-decoration-color: var(--link-color);
+      --link-text-decoration-color--hover: var(--link-color--hover);
       --content-max-width: 81em;
     }
   </style>
@@ -44,7 +42,7 @@
         placeholder: '搜索',
         noData: '找不到结果!',
       },
-      homepage: 'Introduction.md',
+      homepage: '0-Intro.md',
       nameLink: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs/',
       repo: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs/',
       themeColor: '#659ad2',
