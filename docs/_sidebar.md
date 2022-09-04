@@ -1,4 +1,4 @@
-- [C语言程序设计基础](0-Intro)
+- [C语言程序设计基础](0-intro)
 - [课程要求](1-requirements)
 - [教材选购](2-textbook)
 - [C语言环境配置 ! ! !](3-envs)

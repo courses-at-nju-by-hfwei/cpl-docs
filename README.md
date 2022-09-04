@@ -6,7 +6,22 @@
 
 重构一下目录结构, 清理掉了冗余图标, 使之更清晰. 
 
-建议用 http://cpl.azifans.club/#/0-intro/ 来访问, 若访问根域名, 部分插件会有bug.
+建议用 http://47.122.3.40/#/0-intro/ 来访问, 若访问根域名, 部分插件会有 bug (翻页插件在根域名页面不显示).
+
+目前还需要在服务器上手动部署更新, GitHub Action 不会写, 坐等浇浇自动部署.
+
+在服务器上部署该文档网页的指令: (使用 npm 包管理器)
+
+````bash
+    npm i docsify-cli -g
+    npm i http-server -g
+    git clone <本项目地址>
+    cd /cpl-docs/docs/
+    nohup http-server -p 80 &
+    exit
+````
+
+更新时只需要 `git pull` 就可以热更新, 不需要重启进程.
 
 ### shuilongzhihun @ 2022/9/4
 
