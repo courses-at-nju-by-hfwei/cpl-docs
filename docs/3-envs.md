@@ -16,9 +16,9 @@
 
 [![VS Code LOGO](.assets/images/Visual_Studio_Code_1.35_icon.svg ':size=32') -> **Visual Studio Code**](https://code.visualstudio.com/) (简称 "VS Code",  由 Microsoft 开发的开源"文本编辑器")
 
-?> 魏老师上课会使用 **CLion** 来进行课程演示与讲解 
+?> 蚂蚁老师上课会使用 **CLion** 来进行课程演示与讲解 
 
-(不过魏老师用的是 Linux 系统下搭载 Vim 插件的 CLion, 看不懂这两个名词没关系, 下面会讲到).
+(不过蚂蚁老师用的是 Linux 系统下搭载 Vim 插件的 CLion, 看不懂这两个名词没关系, 下面会讲到).
 
 ### **不作推荐但是可以**使用:
 
@@ -28,7 +28,7 @@
 
 - Visual Studio 20?? (简称 "VS", 由 Microsoft 开发的 IDE, 和上文的 VS Code **完全不同**, 有些庞大臃肿, 编译运行方式与 CLion 不同)
 
-- 纯 Vim (需要特殊操作手法的文本编辑器, 由于需要熟练运用[特殊的操作](https://oi-wiki.org/tools/editor/vim/)才能高效写代码, 故上手难度极高, 很不友好. <small>但是魏老师就很会用 Vim 的操作手法!</small>)
+- 纯 Vim (需要特殊操作手法的文本编辑器, 由于需要熟练运用[特殊的操作](https://oi-wiki.org/tools/editor/vim/)才能高效写代码, 故上手难度极高, 很不友好. <small>但是蚂蚁老师就很会用 Vim 的操作手法!</small>)
 
 - Sublime 、Notepad++、记事本、~~Microsoft Office Word~~ (都是文本编辑器)
 
