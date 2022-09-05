@@ -66,7 +66,7 @@
 
 这里给出本课程推荐的两款编程平台的教程: 
 
-(TODO: Jetbrains 学生认证教程 + Toolbox安装 CLion (全平台通用))
+[Jetbrains 学生认证教程 + Toolbox安装 CLion (全平台通用)(2022年录制)](https://www.bilibili.com/video/BV1Bd4y1G7a1?vd_source=20202ec91c1882d95954b8843ae70102)
 
 [Windows 下配置 VS Code & CLion 的C语言环境教程 (2022年录制)](https://www.bilibili.com/video/BV1eP411j7Gw)
 
