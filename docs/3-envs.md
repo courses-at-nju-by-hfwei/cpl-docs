@@ -66,7 +66,7 @@
 
 这里给出本课程推荐的两款编程平台的教程: 
 
-(TODO: Jetbrains 学生认证教程 + Toolbox安装 CLion (全平台通用))
+[Jetbrains 学生认证 + Toolbox 部署 CLion 教程(2022年录制, 全平台通用)](https://www.bilibili.com/video/BV1Bd4y1G7a1)
 
 [Windows 下配置 VS Code & CLion 的C语言环境教程 (2022年录制)](https://www.bilibili.com/video/BV1eP411j7Gw)
 
@@ -84,7 +84,7 @@
 
 ### 配置C语言环境 <!-- {docsify-ignore} -->
 
-(TODO: 配环境教程, Jetbrains 认证 + Toolbox 安装 CLion 全平台通用)
+[Jetbrains 学生认证 + Toolbox 部署 CLion 教程(2022年录制, 全平台通用)](https://www.bilibili.com/video/BV1Bd4y1G7a1)
 
 [macOS 下配置 CLion 的C语言环境教程 (2021年录制)](https://www.bilibili.com/video/BV1o44y117Zt)
 
@@ -96,7 +96,7 @@
 
 ### 配置C语言环境 <!-- {docsify-ignore} -->
 
-(TODO: 配环境教程, Jetbrains 认证 + Toolbox 安装 CLion 全平台通用)
+[Jetbrains 学生认证 + Toolbox 部署 CLion 教程(2022年录制, 全平台通用)](https://www.bilibili.com/video/BV1Bd4y1G7a1)
 
 [Linux 下配置 VS Code 的C语言环境教程 (2021年录制)](https://www.bilibili.com/video/BV1L34y1Q74x)
 
