@@ -2,14 +2,13 @@
 
 最后更新于 {docsify-updated}。
 
----
 ## 课程信息
 
 - **课程名称：** C 语言程序设计基础 (C Programming Language)
 - **课程简称：** `CPL`
 - **课程性质：** 平台课 (即专业基础课)
 - **授课对象：** 南京大学软件学院大一新生
-- **授课教师：** 魏恒峰 (<small>[蚂蚁蚂蚁](https://www.bilibili.com/video/BV16y4y1Y7u6?share_source=copy_web&vd_source=afddc1f6e07c3046ed07519aa34370fd&t=0)</small>)
+- **授课教师：** 魏恒峰 <small>([蚂蚁蚂蚁](https://www.bilibili.com/video/BV16y4y1Y7u6))</small>
 - **课程图标：**
 
     ![CPL](.assets/images/C_Programming_Language.svg ':size=10%')
@@ -35,13 +34,13 @@
 
 ## 学习方法
 
-?> **纸上得来终觉浅，绝知此事要躬行**
+?> **纸上得来终觉浅，绝知此事要躬行。**
 
 学习程序设计语言，没有捷径。所有的捷径，都是“从入门到放弃”。
 
 看似最笨、最慢的那条路，方为正途。
 
-?> **操千曲而后晓声，观千剑而后识器**
+?> **操千曲而后晓声，观千剑而后识器。**
 
 学习程序设计语言，一要多写（敲代码），二要多读。
 

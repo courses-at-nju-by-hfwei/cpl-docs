@@ -1,5 +1,7 @@
 # 课程要求
 
+<small>最后更新于 {docsify-updated}。</small>
+
 ## 关于学术诚信与抄袭 
 
 !> 请查阅：[学术诚信（什么事情能做 :smiley:，什么不能 :rage:）](http://integrity.mit.edu/)
