@@ -33,3 +33,8 @@
 - [cpl-lectures/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main/2021)
 
 !> 课件极为简略。不要指望通过课件学习 C 语言。
+
+## 其它资源
+
+- [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)：
+备课时搜集的资料，杂乱无章，欢迎提供素材。
