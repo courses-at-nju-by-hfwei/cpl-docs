@@ -1,5 +1,7 @@
 # 其他教程
 
+<small>最后更新于 {docsify-updated}。</small>
+
 ## OJ (必看) 
 
 (TODO: 介绍 OJ 平台与作业提交方式)
