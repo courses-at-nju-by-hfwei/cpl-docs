@@ -3,18 +3,18 @@
 最后更新于 {docsify-updated}。
 
 ---
-# 课程信息
+## 课程信息
 
 - **课程名称：** C 语言程序设计基础 (C Programming Language)
 - **课程简称：** `CPL`
 - **课程性质：** 平台课 (即专业基础课)
 - **授课对象：** 南京大学软件学院大一新生
-- **授课教师：** 魏恒峰 (蚂蚁蚂蚁)
+- **授课教师：** 魏恒峰 (<small>[蚂蚁蚂蚁](https://www.bilibili.com/video/BV16y4y1Y7u6?share_source=copy_web&vd_source=afddc1f6e07c3046ed07519aa34370fd&t=0)</small>)
 - **课程图标：**
 
     ![CPL](.assets/images/C_Programming_Language.svg ':size=10%')
 
-# 课程评价体系
+## 课程评价体系
 
 本课程的分数构成为:
 
@@ -33,7 +33,7 @@
 
 从分数构成来看，即使期末机试发挥不理想，也不用过于担心。
 
-# 学习方法
+## 学习方法
 
 ?> **纸上得来终觉浅，绝知此事要躬行**
 

@@ -3,4 +3,5 @@
 - [教材与参考书籍](2-textbook)
 - [C 语言开发环境](3-envs)
 - [其它教程](4-ex-guides)
+- [课程安排](schedule)
 - [准备开学!](5-ready)
