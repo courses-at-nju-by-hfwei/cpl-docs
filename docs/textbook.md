@@ -1,7 +1,7 @@
 # 教材与参考书籍
 
 !> 不统一发放教材与参考书籍。</br>
-请同学们自行购买或使用电子版（见下）。</br>
+请同学们自行购买或使用[电子版](resources?id=电子书籍)。</br>
 可以考虑从学长处购买二手书，书上的笔记或许对你有帮助（如果学长读了书的话）。
 
 <small>最后更新于 {docsify-updated}。</small>
@@ -22,18 +22,3 @@
 
 
 (TODO: 更多参考书籍)
-
-## 电子书籍资源
-
-- [cpl-resources/books](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
-- [books:box.nju](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/)
-
-## 辅助教学视频与课程录制
-
-(TODO: 移到单独页面)
-
-欢迎关注蚂蚁老师的 Bilibili 账号 [@ant-hengxin](https://space.bilibili.com/479141149) !
-
-各种教学视频与教程, 以及课程的录制录屏, 蚂蚁老师都会第一时间上传至 Bilibili !
-
-<small>也欢迎大家关注各位助教哥哥姐姐们的账号哦~</small>
