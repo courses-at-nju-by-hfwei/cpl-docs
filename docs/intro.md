@@ -1,6 +1,6 @@
 # 课程简介
 
-最后更新于 {docsify-updated}。
+<small>最后更新于 {docsify-updated}。</small>
 
 ## 课程信息
 
