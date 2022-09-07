@@ -4,11 +4,11 @@
 
 ## 常用网站
 
-- [OJ]()
+- [OJ (Online Judge 作业平台)]()
 
-- [QA]()
+- [Q & A]()
 
-- [C reference](https://en.cppreference.com/w/c)
+- [C Reference](https://en.cppreference.com/w/c)
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
@@ -16,9 +16,9 @@
 
 教程视频与授课视频都会第一时间上传至 B 站。
 
-- [2022-CPL 授课录屏 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
+- [2022-CPL 教程视频 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
 
-- [2021-CPL 授课录频 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
+- [2021-CPL 授课录屏 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
 
 欢迎关注 [@ant-hengxin](https://space.bilibili.com/479141149) 以及 [助教账号](schedule?id=助教信息)。
 
