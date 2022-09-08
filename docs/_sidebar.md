@@ -6,3 +6,4 @@
 - [C 语言开发环境](envs)
 - [其它教程](ex-guides)
 - [准备开学!](ready)
+- [编程风格](styles)
