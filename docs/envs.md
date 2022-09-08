@@ -41,7 +41,7 @@
 
 我们以 `Windows 11` 系统作演示，也适用于其它 Windows 系统。
 
-（助教不负责解决 ![Windows LOGO](.assets/images/Windows_2012.svg ':size=100') 带来的安装问题）
+（助教解决不了 ![win95](.assets/images/win95.jpg ':size=50') 之前版本带来的安装问题）
 
 ### 1. 更换英文用户目录名 <!-- {docsify-ignore} -->
 
