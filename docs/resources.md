@@ -5,8 +5,10 @@
 ## 常用网站
 
 - [OJ (Online Judge 作业平台)]()
+  - 请先观看 [OJ 操作指南](./ex-guides?id=oj-必看-tilnel)
 
 - [Q & A]()
+  - 请仔细阅读 [如何提问?](./requirements?id=关于提问与求助)
 
 - [C Reference](https://en.cppreference.com/w/c)
 
