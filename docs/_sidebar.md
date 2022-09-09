@@ -3,7 +3,6 @@
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
 - [课程资源](resources)
-- [教材与参考书籍](textbook)
 - [C 语言开发环境](envs)
 - [其它教程](ex-guides)
 - [准备开学!](ready)
