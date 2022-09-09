@@ -7,7 +7,37 @@
 (TODO: 抄袭的定义，抄袭的警告机制)
 
 ## 抄袭的定义
-TODO: 鼓励讨论
+-简单概括：独立完成
+
+针对作业的独立完成
+- 自己完成作业
+- 对使用的已有资料作出明确的标示
+- [ACM Policy on Plagiarism, Misrepresentation, and Falsification](https://www.acm.org/publications/policies/plagiarism-overview)
+
+针对代码的独立完成
+- 自己完成代码的编写
+- 自己完成测试用例
+- 仅在允许的范围内使用他人的成果
+  - 如同学学会了 C 库函数的使用方法，并教授给你
+  - 参考问答网站（同样禁止复制互联网上的代码）
+
+具体的案例：MIT 6.005 Elements of Software Construction
+
+Individual work
+- Problem sets in this class are intended to be primarily individual efforts. You are encouraged to discuss approaches with other students but <font color="red">your code and your write-up must be your own</font>.
+- You <font color="red">may not use materials produced as course work by other students</font>, whether in this term or previous terms, nor may you provide work for other students to use.
+- It’s good to help other students. But as a general rule, during the time that you are helping another student, <font color="red">your own solution should not be visible</font>, either to you or to them. Make a habit of closing your laptop while you’re helping.
+
+我们鼓励讨论解题思路、语言知识。但帮助别人的时候，请合上自己的笔记本电脑。并请列出
+
+具体的案例: 安装系统与编程环境
+
+遇到问题 (如安装错误) 找同学询问/解决 <font color="green">OK</font>
+- 但你可能就失去了这门课原本的训练
+  - 尽可能先自己解决
+- 帮其他同学解决问题的人
+  - 一起还原解决问题的过程
+请别人安装好，或使用他人的虚拟机镜像 <font color="red">INAPPROPRIATE</font>
 
 ## 抄袭的惩罚机制
 
