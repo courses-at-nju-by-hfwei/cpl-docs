@@ -26,7 +26,8 @@
       --link-color--hover: #00599c;
       --link-text-decoration-color: var(--link-color);
       --link-text-decoration-color--hover: var(--link-color--hover);
-      --content-max-width: 81em;
+      --content-max-width: 90%;
+
     }
   </style>
 </head>
@@ -77,6 +78,15 @@
       count: {
         language: 'chinese',
       },
+      Valine: {
+        appId: '8OJ9ftpqzv2GnP6cKsOQmn2W-gzGzoHsz',
+        appKey: 'K5fVklVSa22jdRsx45PPiA71',
+        placeholder: '你想说点什么吗？请在“邮箱”填写你的南大邮箱谢谢喵~',
+        avatar: 'retro',
+        meta: ['nick', 'mail'],
+        requiredFields: ['nick', 'mail'],
+        recordIP: true,
+      }
     }
   </script>
   <!-- Docsify v4 -->
@@ -91,6 +101,12 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/marked@3"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
 </body>
 
 </html>

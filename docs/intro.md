@@ -29,11 +29,11 @@
 
 ### **软件学院**
 
-![2022-CPL-SuZhou](.assets/images/2022-CPL-Software.png ':size=50%')
+![2022-CPL-SuZhou](.assets/images/2022-CPL-Software.svg ':size=50%')
 
 ### **苏州校区技术科学试验班**
 
-![2022-CPL-SuZhou](.assets/images/2022-CPL-SuZhou.png ':size=50%')
+![2022-CPL-SuZhou](.assets/images/2022-CPL-SuZhou.svg ':size=50%')
 
 <!-- tabs:end -->
 
