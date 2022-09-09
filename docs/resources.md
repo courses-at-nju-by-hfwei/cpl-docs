@@ -31,6 +31,13 @@
 - [coding-1/2021 @ GitHub]()
 - [coding-2/2021 @ GitHub]()
 
+## 参考书籍
+
+- **《C Primer Plus (英文版/中文版) 第六版》 Stephen Prata著, 人民邮电出版社**
+
+
+(TODO: 更多参考书籍)
+
 ## 电子书籍
 
 - [cpl-resources/books @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
