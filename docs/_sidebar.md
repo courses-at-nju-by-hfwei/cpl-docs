@@ -1,5 +1,6 @@
 - [课程简介](intro)
 - [课程安排](schedule)
+- [作业](hw)
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
 - [课程资源](resources)
