@@ -40,22 +40,3 @@
 每次课前（前两次课除外），在 [GitHub (待定)]() 上公布题目以及空的代码文件。
 
 每次课后，在 GitHub 上提交完整的代码文件。
-
-## 助教信息
-
-| 姓名 (按姓氏排序) | 擅长工具 | 使用的系统 | Bilibili |
-| :---: | ----- | ----- | :---: |
-| 蔡之恒 | VS Code / Clion | macOS / Ubuntu | (不想透露) |
-| 李薛成 | CLion / VS Code / Typora | Windows 11 / WSL / Ubuntu | [@Sakiyary](https://space.bilibili.com/12502995) |
-| 毛子钰 | Vim / Terminal | Ubuntu 22.04 | [@计算鸡磕雪茄](https://space.bilibili.com/454302264) |
-| 浦亮 | VS Code | Windows 10 | [@水龙之魂Official](https://space.bilibili.com/4780141) |
-| 孙博文 | VS Code / Vim / Makefile / bash | Ubuntu / ArchLinux | [@小木曾せつなOfficial](https://space.bilibili.com/12896246) |
-| 肖江 | VS Code | Windows / Ubuntu | (不想透露) |
-| 熊丘桓 | VS Code / Typora / Dev-C++ | Windows 10 | [@雁卷西楼](https://space.bilibili.com/679618337) |
-| 张哲恺 | VS Code / Typora | Windows 11 | [@不理发的小粉毛](https://space.bilibili.com/330247538) |
-
-## 答疑安排
-
-- 每周x
-- 每周y
-- 每周z

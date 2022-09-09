@@ -1,37 +1,56 @@
-# 课程要求
+# 助教与答疑
 
 <small>最后更新于 {docsify-updated}。</small>
 
-## 关于学术诚信与抄袭
+## 助教信息
 
-!> 请仔细阅读 [学术诚信（什么事情能做 :smiley:，什么不能 :rage:）](http://integrity.mit.edu/)
+<!-- tabs:start -->
 
-(TODO: 抄袭的定义，抄袭的警告机制)
+### **软件学院**
 
-### 抄袭的定义
-TODO: 鼓励讨论
+| 姓名 (按姓氏排序) | 擅长工具 | 使用的系统 | Bilibili (可选) |
+| :---: | ----- | ----- | :---: |
+| 蔡之恒 | VS Code / Clion | macOS / Ubuntu | (不想透露) |
+| 李薛成 | CLion / VS Code / Typora | Windows 11 / WSL / Ubuntu | [@Sakiyary](https://space.bilibili.com/12502995) |
+| 毛子钰 | Vim / Terminal | Ubuntu 22.04 | [@计算鸡磕雪茄](https://space.bilibili.com/454302264) |
+| 浦亮 | VS Code | Windows 10 | [@水龙之魂Official](https://space.bilibili.com/4780141) |
+| 孙博文 | VS Code / Vim / Makefile / bash | Ubuntu / ArchLinux | [@小木曾せつなOfficial](https://space.bilibili.com/12896246) |
+| 肖江 | VS Code | Windows / Ubuntu | (不想透露) |
+| 熊丘桓 | VS Code / Typora / Dev-C++ | Windows 10 | [@雁卷西楼](https://space.bilibili.com/679618337) |
+| 张哲恺 | VS Code / Typora | Windows 11 | [@不理发的小粉毛](https://space.bilibili.com/330247538) |
 
-### 抄袭的惩罚机制
+### **苏州校区技术科学试验班**
 
-本课程将对抄袭采取严厉的惩罚措施。
-- 第一次抄袭从**总评**中扣除 10 分。
-- 第二次抄袭再从**总评**中扣除 10 分。
-- 第三次抄袭将直接判为**总评不及格**。
+| 任课教师 | 姓名 (按姓氏排序) | 擅长工具 | 使用的系统 | Bilibili (可选) |
+|  | :---: | ----- | ----- | :---: |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
 
-?> 为鼓励讨论，暂不对被抄袭者进行惩罚。
-但每位同学都有义务主动拒绝来自他人的明显的抄袭行为。
+<!-- tabs:end -->
 
-### 抄袭的认定过程
-- 每次 OJ 截止日期结束后，OJ 系统自动对所有提交代码进行查重
-- 对重复率较高的代码，由多位助教人工判定是否为抄袭
-- 助教约谈疑似抄袭的同学，无异议则执行惩罚措施。
+## 答疑安排
 
-### 抄袭的申诉过程
-TODO: 若有异议，学生可以向任课教师报备，由任课教师代为向学院提起申诉。
+- 每周x
+- 每周y
+- 每周z
 
-!> 让我们共同维护良好的学习环境，主动拒绝抄袭。
-
-## 关于提问与求助
+## 如何提问与求助
 
 ?> 如何正确求助：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像弱智一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
@@ -40,6 +59,8 @@ TODO: 若有异议，学生可以向任课教师报备，由任课教师代为�
 也就是说，请在提问之前先 `STFW`（意为 "Search the Friendly Web"，去网上搜索）或 `RTFM`（意为 "Read the Friendly Manual"，去读手册），尽可能自行解决问题，如果经过了长时间的尝试也无法解决问题再求助同学，助教或老师，**这样有助于提升自己解决问题的能力**。
 
 如果实在需要求助，你可以选择以下方式：
+
+## 如何求助
 
 - 私戳助教
 - 在课程群内提问

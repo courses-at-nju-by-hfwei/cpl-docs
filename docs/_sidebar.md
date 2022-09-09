@@ -1,6 +1,7 @@
 - [课程简介](intro)
 - [课程安排](schedule)
-- [课程要求](requirements)
+- [抄袭与惩罚](plagiarize)
+- [助教与答疑](qa)
 - [课程资源](resources)
 - [教材与参考书籍](textbook)
 - [C 语言开发环境](envs)
