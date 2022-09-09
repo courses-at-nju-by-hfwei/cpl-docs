@@ -28,7 +28,13 @@
     docsify serve docs
 ````
 
+评论区使用了 [docsify-valine](https://github.com/daidi/docsify-valine/), 手册与文档均在该项目的 `README.md` 中, 需要注册 `leancloud` 账号并创建 `application` 来使用.
+
+valine 评论区由于没有审核机制, 且删除评论需要到云服务器的数据库删除, 所以之后还是换成公共账号更好. 有记录 ip 的功能(但好像对 校园网 出口ip 来说没用). 怎样防止学生发布违禁内容仍需进一步探讨, 或者考虑换一个评论区插件. 目前希望学生能填写`南大邮箱`后再发表评论.
+
 ## Change Log
+
+> 怎么办, 好像没人写了...
 
 ### Sakiyary @ 2022/9/6
 
