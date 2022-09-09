@@ -5,10 +5,15 @@
 ## 课程信息
 
 - **课程名称：** C 语言程序设计基础 (C Programming Language)
+
 - **课程简称：** `CPL`
+
 - **课程性质：** 平台课 (即专业基础课)
+
 - **授课对象：** 南京大学软件学院大一新生 & 苏州校区技术科学试验班大一新生
-- **课程图标：** ![CPL](.assets/images/C_Programming_Language.svg ':size=8%')
+
+- **课程图标：** ![CPL](.assets/images/C_Programming_Language.svg ':size=50')
+
 - **授课教师：**
 
 <!-- tabs:start -->
@@ -29,11 +34,11 @@
 
 ### **软件学院**
 
-![2022-CPL-SuZhou](.assets/images/2022-CPL-Software.svg ':size=50%')
+![2022-CPL-SuZhou](.assets/images/2022-CPL-Software.svg ':size=60%')
 
 ### **苏州校区技术科学试验班**
 
-![2022-CPL-SuZhou](.assets/images/2022-CPL-SuZhou.svg ':size=50%')
+![2022-CPL-SuZhou](.assets/images/2022-CPL-SuZhou.svg ':size=60%')
 
 <!-- tabs:end -->
 
