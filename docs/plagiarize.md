@@ -76,6 +76,6 @@ Individual work
 
 TODO: 若有异议，学生可以向任课教师报备，由任课教师代为向学院提起申诉。
 
-?> 让我们共同维护良好的学习环境，主动拒绝抄袭！
+!> 让我们共同维护良好的学习环境，主动拒绝抄袭！
 
 ![no plagiarism](.assets/images/no-plagiarism.jpg)
