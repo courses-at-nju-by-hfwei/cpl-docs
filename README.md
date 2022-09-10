@@ -2,7 +2,7 @@
 
 ## 须知
 
-使用了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架, 目前部署在阿里云上, 通过 http://47.122.3.40/#/intro 访问. 未来会绑定到域名 http://docs.cpl.icu/ 上.
+使用了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架, 目前部署在阿里云上, 通过 http://47.122.3.40/ 访问. 未来会绑定到域名 http://docs.cpl.icu/ 上.
 
 基础语法为 Markdown, 有部分 docsify 扩展语法与插件, 项目配置文件为 [docs/index.html](docs/index.html).
 
@@ -31,6 +31,8 @@
 评论区使用了 [docsify-valine](https://github.com/daidi/docsify-valine/), 手册与文档均在该项目的 `README.md` 中, 需要注册 `leancloud` 账号并创建 `application` 来使用.
 
 valine 评论区由于没有审核机制, 且删除评论需要到云服务器的数据库删除, 所以之后还是换成公共账号更好. 有记录 ip 的功能(但好像对 校园网 出口ip 来说没用). 怎样防止学生发布违禁内容仍需进一步探讨, 或者考虑换一个评论区插件. 目前希望学生能填写`南大邮箱`后再发表评论.
+
+封面已部署, 但由于翻页插件的特性(bug), 从封面往下滑或者点击封面上的 "Get Start" 到达的第一页`课程简介`并没有翻页功能.
 
 ## Change Log
 

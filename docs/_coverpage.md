@@ -5,7 +5,5 @@
 > Talk is cheap. Show me the code. --- Linus Torvalds
 <!-- - `Truth can only be found in one place: the code.` --- Robert C. Martin -->
 
-<br>
-
 [GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-docs/)
-[Get Started](#)
+[Get Started](?id=课程简介)
