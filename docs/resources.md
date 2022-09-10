@@ -18,18 +18,17 @@
 
 教程视频与授课视频都会第一时间上传至 B 站。
 
-- [2022-CPL 教程视频 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
+- [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
+- [2021-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
 
-- [2021-CPL 授课录屏 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
-
-欢迎关注 [@ant-hengxin](https://space.bilibili.com/479141149) 以及 [助教账号](schedule?id=助教信息)。
+欢迎关注 [ant-hengxin@bilibili](https://space.bilibili.com/479141149) 以及 [助教账号@bilibili](schedule?id=助教信息)。
 
 ## 课程代码仓库
 
 - [coding-1/2022 @ GitHub]()
 - [coding-2/2022 @ GitHub]()
-- [coding-1/2021 @ GitHub]()
-- [coding-2/2021 @ GitHub]()
+- [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1)
+- [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)
 
 ## 参考书籍
 
@@ -48,8 +47,8 @@
 ## 课程课件
 
 - [cpl-lectures/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2022)
-
 - [cpl-lectures/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main/2021)
+  - 可访问 [cpl-lectures@github.io](https://courses-at-nju-by-hfwei.github.io/cpl-lectures/)
 
 !> 课件极为简略。不要指望通过课件学习 C 语言。
 
