@@ -44,8 +44,8 @@
 
 ## 教材
 
-?> 不统一发放教材与参考书籍。</br>
-请同学们自行购买或使用[电子版](resources?id=电子书籍)。</br>
+?> 不统一发放教材与参考书籍。
+请同学们自行购买印刷版或使用[电子版](resources?id=电子书籍)。</br>
 可以考虑从学长处购买二手书，书上的笔记或许对你有帮助（如果学长读了书的话）。
 
 - **《C语言程序设计 现代方法 (英文版/中文版) 第2版 修订版》 K. N. King 著, 人民邮电出版社**
@@ -56,26 +56,28 @@
 
 课后，也要反复阅读，尤其是要补充学习课上仅作简单介绍的知识点。
 
-## 课程大纲
+## 教学周历
 
-!> 具体内容可能会随课堂进度进行调整。
-每周教学知识点参见 [教学周历](weekly.md ':include')。
+!> 具体内容可能会随课堂进度进行调整。<br>
+根据 2021 年授课经验，每堂课 2 个学时，进度偏快，3 个学时节奏可以更从容些。
 
-| 课时 | 内容 |
-| ----- | ----- |
-| 1 | Introducing C |
-| 2 | Variables, Types (int, double), I/O |
-| 3 | If, For, Array |
-| 4 | For, While, Do-While |
-| 5 | Loops (More Examples; break, continue); Multidimensional Arrays |
-| 6 | Function |
-| 7 | Recursion |
-| 8 | Recursion; Data Types |
-| 9 | Pointers |
-| 10 | Pointers (More) |
-| 11 | Pointers; Struct; Union |
-| 12 | Linked Lists |
-| 13 | Networking Programming (项目补充) |
+?> 可访问 **2021-CPL** 资源获取更详细信息：[课程课件](resources?id=课程课件)、[示例代码](resources?id=课程代码仓库)、[授课录屏](resources?id=视频资源)。
+
+| 周数 | 内容 | 知识点 | 备注 |
+| ----- | ----- | ----- | ----- |
+| 3 | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 |
+| 4 | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周; 2 个课时, 可能讲不完 `scanf`, 3 个课时应该没问题 |
+| 5 | If, For, Array | | |
+| 6 | For, While, Do-While | | |
+| 7 | Loops; Multidimensional Arrays | More examples; `break`, `continue`| |
+| 8 | Function | | |
+| 9 | Recursion | | |
+| 10 | Recursion; Data Types | | |
+| 11 | Pointers | | |
+| 12 | Pointers (More) | | |
+| 13 | Pointers; Struct; Union | | |
+| 14 | Linked Lists | | |
+<!-- | 15 | Networking Programming (项目补充) | -->
 
 ## 授课方式
 

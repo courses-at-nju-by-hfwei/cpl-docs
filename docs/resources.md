@@ -43,6 +43,7 @@
 - [cpl-resources/books @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
 
 - [books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍。
+  - TODO: 非修订版
 
 ## 课程课件
 
