@@ -16,7 +16,7 @@
 
 ## Git 与 GitHub (必看, 不理发的小粉毛) 
 
-(TODO: Git 介绍的与使用教程 (希望能结合 IDE 与图形界面来讲具体操作), GitHub 的介绍与教程 (科+学-上*网相关的东西也一并写好"禁令"), 也可以是南大的 GitLab)
+[CLion/VSCode内嵌Git组件+Github教程-助教-Corax (2022年录制，偏向于图形化界面操作，附赠gitlab平台介绍)](https://www.bilibili.com/video/BV1VG41137RA?spm_id_from=333.999.0.0&vd_source=20202ec91c1882d95954b8843ae70102)
 
 [分布式版本控制系统 Git 的使用 (2021年录制, 偏向于 CLI 操作)](https://www.bilibili.com/video/BV15M4y1576Z)
 
