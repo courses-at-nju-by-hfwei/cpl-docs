@@ -6,12 +6,10 @@
 
 - [OJ (Online Judge 作业平台)]()
   - 请先观看 [OJ 操作指南](./ex-guides?id=oj-必看-tilnel)
-
 - [Q & A]()
   - 请仔细阅读 [如何提问?](./qa?id=关于提问与求助)
-
+- [Stack Overflow](https://stackoverflow.com/)
 - [C Reference](https://en.cppreference.com/w/c)
-
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## 视频资源
