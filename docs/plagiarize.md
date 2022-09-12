@@ -10,14 +10,6 @@
 
 ### 首先简单概括一下独立完成
 
-- 针对作业的独立完成:
-
-  - 自己完成作业
-
-  - 对使用的已有资料作出明确的标示
-
-  - [ACM Policy on Plagiarism, Misrepresentation, and Falsification](https://www.acm.org/publications/policies/plagiarism-overview)
-
 - 针对代码的独立完成
 
   - 自己完成代码的编写

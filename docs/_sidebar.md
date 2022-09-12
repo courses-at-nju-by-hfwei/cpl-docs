@@ -1,5 +1,6 @@
 - [课程简介](intro)
-- [课程评价体系](hw)
+- [课程评价指标](hw)
+- [编程练习与项目](problemset)
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
 - [课程资源](resources)
