@@ -2,15 +2,19 @@
 
 <small>最后更新于 {docsify-updated}。</small>
 
-## OJ (必看) 
+?> 学习优先级: [C 语言开发环境配置](./envs) > 必看 > 推荐
 
-(TODO: 介绍 OJ 平台与作业提交方式)
+## OJ (必看, 开学前) 
+
+[C语言课程设计评测系统 DotOJ 使用方法介绍 (2022年录制)](https://www.bilibili.com/video/BV1xg411U7Zv)
 
 ## GDB 与断点调试 (必看, 但是别急) 
 
 (TODO: 用 IDE 中图形界面的 GDB 来快速 Debug 的教程)
 
-## 命令行终端 (推荐) 
+## 命令行终端 (必看) 
+
+命令行 (CLI) 操作是程序员必不可少的技能，这里我们给出 PowerShell 和 Windows Terminal 教程。
 
 [PowerShell 和 Windows Terminal 使用简介 (2022年录制)](https://www.bilibili.com/video/BV12Y4y1M72R)
 
@@ -24,16 +28,14 @@
 
 ## Markdown (推荐) 
 
-(TODO: Markdown 用处与必要性)
+Markdown 是一种语法，专门用来写文档 (包括本课程的项目文档)。本文档网站正是基于 Markdown 语法的。这也是一项程序员必备技能。
 
  [Markdown + Typora/VSCode 超全教程 (2022年录制)](https://www.bilibili.com/video/BV1hG411p7fX)
 
 ## Linux 虚拟机/子系统 (推荐, Sakiyary) 
 
-(TODO: 讲个大概, 推给 Linux 课)
+(TODO: 结合 `Windows Terminal` 来使用最方便的 Linux 子系统 `WSL` 进行 C语言代码调试)
 
 [Ubuntu 安装与使用 (2021年录制)](https://www.bilibili.com/video/BV1vq4y1X7Wp)
 
-(TODO: 结合 `Windows Terminal` 来使用最方便的 Linux 子系统 `WSL` 进行 C语言代码调试)
-
-[WSL (Windows 10) - OI Wiki (oi-wiki.org)](https://oi-wiki.org/tools/wsl/)
+[WSL (Windows 10) - OI Wiki (oi-wiki.org)](https://oi-wiki.org/tools/wsl/) 写得很清晰。
