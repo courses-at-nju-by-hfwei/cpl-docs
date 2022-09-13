@@ -7,7 +7,7 @@
 
 ![no plagiarism](.assets/images/no-plagiarism.jpg ':size=500')
 
-## 抄袭的定义
+## 独立完成 禁止抄袭
 
 !> 所有考核都必须独立完成。
 
@@ -27,7 +27,7 @@
 
 ?> 我们鼓励互相讨论语言知识点、解题思路、编程方法、编程工具与环境等，但要确保独立完成编码任务。
 
-以下摘抄自 [Academic Integrity at MIT](http://integrity.mit.edu/handbook/writing-code) 关于 `Individual Work` 的说明：
+以下关于 `Individual Work` 的说明摘抄自 [Academic Integrity at MIT](http://integrity.mit.edu/handbook/writing-code) ：
 - Problem sets in this class are intended to be primarily individual efforts. You are encouraged to discuss approaches with other students but **<font color="red">your code and your write-up must be your own</font>**.
 - You **<font color="red">may not use materials produced as course work by other students</font>**,
 whether in this term or previous terms, **<font color="red">nor may you provide work for other students to use</font>**.
@@ -67,6 +67,8 @@ either to you or to them. Make a habit of closing your laptop while you’re hel
 ## 抄袭的认定过程
 
 - 每次作业截止日期结束后，OJ 系统自动对所有提交代码进行查重
+
+- 若作业中出现往年原题，OJ 会将往年的代码一起进行查重
 
 - 对所有迟交的代码，助教们会重点关注
 
