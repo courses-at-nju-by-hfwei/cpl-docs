@@ -10,9 +10,9 @@
 
 (TODO: 用 IDE 中图形界面的 GDB 来快速 Debug 的教程)
 
-## 命令行终端 (推荐, 肖江) 
+## 命令行终端 (推荐, 875C) 
 
-(TODO: 结合 VS Code 运行代码的过程讲写代码时的 IDE 内嵌终端)
+[Powershell和Windows Terminal使用简介](https://www.bilibili.com/video/BV12Y4y1M72R)
 
 ## Git 与 GitHub (必看, 不理发的小粉毛) 
 
