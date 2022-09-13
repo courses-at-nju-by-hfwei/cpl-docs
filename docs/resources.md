@@ -5,10 +5,12 @@
 ## 常用网站
 
 - [OJ (Online Judge 作业平台)]()
-  - 请先观看 [OJ 操作指南](./ex-guides?id=oj-必看-开学前)
+
+  - 请先观看 [OJ 操作指南](ex-guides?id=oj-必看)
 
 - [Q & A]()
-  - 请仔细阅读 [如何提问?](./qa?id=如何提问与求助)
+
+  - 请仔细阅读 [如何提问?](qa?id=如何提问与求助)
 
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -28,9 +30,12 @@
 
 ## 课程代码仓库
 
-- [coding-1/2022 @ GitHub]()
-- [coding-2/2022 @ GitHub]()
+- [coding-1/2022 @ GitHub (待建)]()
+
+- [coding-2/2022 @ GitHub (待建)]()
+
 - [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1)
+
 - [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)
 
 ## 参考书籍
@@ -58,6 +63,7 @@
 ## 软件资源 (配套视频使用)
 
 - [Softwares @ NJU Box](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/)
+
 ## 其它资源
 
 - [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)：

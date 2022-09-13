@@ -8,39 +8,39 @@
 
 ### **软件学院**
 
-| 姓名 (按姓氏排序) | 擅长工具 | 使用的系统 | Bilibili (可选) |
-| :---: | ----- | ----- | :---: |
-| 蔡之恒 | VS Code / Clion | macOS / Ubuntu | (不想透露) |
-| 李薛成 | CLion / VS Code / Typora | Windows 11 / WSL / Ubuntu | [@Sakiyary](https://space.bilibili.com/12502995) |
-| 毛子钰 | Vim / Terminal | Ubuntu 22.04 | [@计算鸡磕雪茄](https://space.bilibili.com/454302264) |
-| 浦亮 | VS Code | Windows 10 | [@水龙之魂Official](https://space.bilibili.com/4780141) |
-| 孙博文 | VS Code / Vim / Makefile / bash | Ubuntu / ArchLinux | [@小木曾せつなOfficial](https://space.bilibili.com/12896246) |
-| 肖江 | VS Code | Windows / Ubuntu | (不想透露) |
-| 熊丘桓 | VS Code / Typora / Dev-C++ | Windows 10 | [@雁卷西楼](https://space.bilibili.com/679618337) |
-| 张哲恺 | VS Code / Typora | Windows 11 | [@不理发的小粉毛](https://space.bilibili.com/330247538) |
+| 姓名 (按姓氏排序) | 擅长工具                        | 使用的系统                |                       Bilibili账号 (可选)                        |
+| :---------------: | ------------------------------- | ------------------------- | :----------------------------------------------------------: |
+|      蔡之恒       | VS Code / Clion                 | macOS / Ubuntu            |                          (不想透露)                          |
+|      李薛成       | CLion / VS Code / Typora        | Windows 11 / WSL / Ubuntu |       [Sakiyary](https://space.bilibili.com/12502995)       |
+|      毛子钰       | Vim / Terminal                  | Ubuntu 22.04              |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
+|       浦亮        | VS Code                         | Windows 10                |   [水龙之魂Official](https://space.bilibili.com/4780141)    |
+|      孙博文       | VS Code / Vim / Makefile / bash | Ubuntu / ArchLinux        | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
+|       肖江        | VS Code                         | Windows / Ubuntu          |                          (不想透露)                          |
+|      熊丘桓       | VS Code / Typora / Dev-C++      | Windows 10                |      [雁卷西楼](https://space.bilibili.com/679618337)       |
+|      张哲恺       | VS Code / Typora                | Windows 11                |   [不理发的小粉毛](https://space.bilibili.com/330247538)    |
 
 ### **苏州校区技术科学试验班**
 
 | 任课教师 | 姓名 (按姓氏排序) | 擅长工具 | 使用的系统 | Bilibili (可选) |
-| :---: | :---: | ----- | ----- | :---: |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| :------: | :---------------: | -------- | ---------- | :-------------: |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
+|          |                   |          |            |                 |
 
 <!-- tabs:end -->
 
@@ -71,7 +71,7 @@
 
 - 在课程群内提问
 
-- 在[课程问答网站](TODO)上提问
+- 在[课程问答网站(待定)]()上提问
 
 我们更推荐后两种方式，这样可以快速地解决大家的**共性问题**，至于**比较特殊的问题也能提醒其他同学不要踩雷**。
 
@@ -89,4 +89,4 @@
 
 ## 助人助己
 
-奖励措施：奶茶？书籍？
+奖励措施：奶茶？书籍？待定
