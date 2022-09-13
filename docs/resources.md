@@ -10,6 +10,8 @@
 - [Q & A]()
   - 请仔细阅读 [如何提问?](./qa?id=关于提问与求助)
 
+- [Stack Overflow](https://stackoverflow.com/)
+
 - [C Reference](https://en.cppreference.com/w/c)
 
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)

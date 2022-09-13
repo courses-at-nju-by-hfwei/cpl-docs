@@ -1,4 +1,4 @@
-# 课程评价体系
+# 课程评价指标
 
 <small>最后更新于 {docsify-updated}。</small>
 
