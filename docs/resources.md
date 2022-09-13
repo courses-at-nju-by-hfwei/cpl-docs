@@ -5,11 +5,15 @@
 ## 常用网站
 
 - [OJ (Online Judge 作业平台)]()
-  - 请先观看 [OJ 操作指南](./ex-guides?id=oj-必看-tilnel)
+  - 请先观看 [OJ 操作指南](./ex-guides?id=oj-必看-开学前)
+
 - [Q & A]()
-  - 请仔细阅读 [如何提问?](./qa?id=关于提问与求助)
+  - 请仔细阅读 [如何提问?](./qa?id=如何提问与求助)
+
 - [Stack Overflow](https://stackoverflow.com/)
+
 - [C Reference](https://en.cppreference.com/w/c)
+
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## 视频资源
@@ -40,7 +44,7 @@
 
 - [cpl-resources/books @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
 
-- [books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍。
+- [Books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍。
   - TODO: 非修订版
 
 ## 课程课件
@@ -51,6 +55,9 @@
 
 !> 课件极为简略。不要指望通过课件学习 C 语言。
 
+## 软件资源 (配套视频使用)
+
+- [Softwares @ NJU Box](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/)
 ## 其它资源
 
 - [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)：
