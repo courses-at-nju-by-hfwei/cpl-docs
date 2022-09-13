@@ -50,23 +50,28 @@
 - 每周y
 - 每周z
 
-## 如何提问与求助
+## 如何提问
 
-?> 如何正确求助：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像弱智一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
+?> 如何正确提问：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像弱智一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
-**请务必保证你提出的问题不是简单的 Google 一下就能解决的**
+首先，在大学期间，你要有意识地“逼迫”自己养成**“遇到问题先独立思考”**的习惯，而不是逃避性地直接从别处获取答案。
 
-也就是说，请在提问之前先 `STFW`（意为 "Search the Friendly Web"，去网上搜索）或 `RTFM`（意为 "Read the Friendly Manual"，去读手册），尽可能自行解决问题，如果经过了长时间的尝试也无法解决问题再求助同学，助教或老师，**这样有助于提升自己解决问题的能力**。
+这是一个痛苦而漫长的过程，但也只有这样，你才能快速成长。
 
-如果实在需要求助，你可以选择下述的方式
+![GoogleQuote](.assets/images/google-quote.jpg ":size=700")
+
+提问之前，请先 `STFW`（"Search the Friendly Web"，上网搜索）
+或 `RTFM`（"Read the Friendly Manual"，查手册），尝试自行解决问题。
+
+只有尝试过之后再求助他人，才有助于提升自己解决问题的能力。
 
 ## 如何求助
 
-- 私戳助教
+- 私戳[助教](qa?id=助教信息)
 
 - 在课程群内提问
 
-- 在课程问答网站上提问
+- 在[课程问答网站](TODO)上提问
 
 我们更推荐后两种方式，这样可以快速地解决大家的**共性问题**，至于**比较特殊的问题也能提醒其他同学不要踩雷**。
 
@@ -81,3 +86,7 @@
 提问题时的注意事项参见[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。
 
 ?> 此外，本课程会定期开展线下答疑会，欢迎有问题的同学参加，没有问题的同学可以不参加，不会记为旷课。
+
+## 助人助己
+
+奖励措施：奶茶？书籍？

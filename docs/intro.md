@@ -8,6 +8,8 @@
 
 - **课程简称：** `CPL`
 
+- **课程编号：** $25000490$
+
 - **课程性质：** 平台课 (即专业基础课)
 
 - **授课对象：** 南京大学软件学院大一新生 & 苏州校区技术科学试验班大一新生
@@ -57,31 +59,34 @@
 
 本书是大部头，一学期讲不完。
 
-每周课前，会发布建议阅读章节。 (TODO：教学立方？？？)
+每周课前，会发布建议阅读章节。见下方[教学周历](?id=教学周历)。
 
-课后，也要反复阅读，尤其是要补充学习课上仅作简单介绍的知识点。
+课后，也要反复阅读教材指定章节，尤其是要补充学习课上仅作简单介绍的知识点。
+
+对于课堂上仅作简要介绍或没有介绍、但属于教材指定章节的知识点，[OJ 练习](hw?id=oj-习题) 中也会涉及。
 
 ## 教学周历
 
 !> 具体内容可能会随课堂进度进行调整。<br>
-根据 2021 年授课经验，每堂课 2 个学时，进度偏快，3 个学时节奏可以更从容些。
+根据 2021 年授课经验，每堂课 2 个学时，进度偏快。<br>
+苏州校区技术与科学试验班，3 个学时，节奏可以更从容些。
 
 ?> 可访问 **2021-CPL** 资源获取更详细信息：[课程课件](resources?id=课程课件)、[示例代码](resources?id=课程代码仓库)、[授课录屏](resources?id=视频资源)。
 
-| 周数 | 内容 | 知识点 | 备注 |
-| ----- | ----- | ----- | ----- |
-| 3 | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 |
-| 4 | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周; 2 个课时, 可能讲不完 `scanf`, 3 个课时应该没问题 |
-| 5 | If, For, Array | | |
-| 6 | For, While, Do-While | | |
-| 7 | Loops; Multidimensional Arrays | More examples; `break`, `continue`| |
-| 8 | Function | | |
-| 9 | Recursion | | |
-| 10 | Recursion; Data Types | | |
-| 11 | Pointers | | |
-| 12 | Pointers (More) | | |
-| 13 | Pointers; Struct; Union | | |
-| 14 | Linked Lists | | |
+| 周数 | 内容 | 知识点 | 备注 | 阅读材料 |
+| ----- | ----- | ----- | ----- | ----- |
+| 3 | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 | |
+| 4 | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周; 2 个课时, 可能讲不完 `scanf`, 3 个课时应该没问题 | |
+| 5 | If, For, Array | | | |
+| 6 | For, While, Do-While | | | |
+| 7 | Loops; Multidimensional Arrays | More examples; `break`, `continue`| | |
+| 8 | Function | | | |
+| 9 | Recursion | | | |
+| 10 | Recursion; Data Types | | | |
+| 11 | Pointers | | | |
+| 12 | Pointers (More) | | | |
+| 13 | Pointers; Struct; Union | | | |
+| 14 | Linked Lists | | | |
 <!-- | 15 | Networking Programming (项目补充) | -->
 
 ## 授课方式
