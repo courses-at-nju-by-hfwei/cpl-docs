@@ -2,7 +2,7 @@
 
 <small>最后更新于 {docsify-updated}。</small>
 
-!> 请仔细阅读 [Academic Integrity at MIT](http://integrity.mit.edu/)，
+!> 请仔细阅读 [Academic Integrity at MIT](http://integrity.mit.edu/)</br>
 了解什么事情能做:smiley:，什么事情不能做:rage:。
 
 ![no plagiarism](.assets/images/no-plagiarism.jpg ':size=500')
@@ -29,7 +29,7 @@ whether in this term or previous terms, **<font color="red">nor may you provide 
 - It’s good to help other students. But as a general rule, during the time that you are helping another student, **<font color="red">your own solution should not be visible</font>**,
 either to you or to them. Make a habit of closing your laptop while you’re helping.
 
-!> 你或许可以一时“不劳而获”，并“侥幸”没有被抓到。
+!> 你或许可以一时“不劳而获”，并“侥幸”没有被抓到。</br>
 但你要认识到，这件事本身是不对的，更不是你炫耀的资本，这是我们最后的底线。
 
 <!-- 具体的案例: 安装系统与编程环境
