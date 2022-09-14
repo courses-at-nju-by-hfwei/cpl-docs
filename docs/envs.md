@@ -79,9 +79,9 @@
 
 [Linux + VS Code (2021年录制)](https://www.bilibili.com/video/BV1L34y1Q74x)
 
-?> 大一上学期，软件工程专业会开设“Linux 系统基础”选修课。</br>
+?> 大一上学期，软件学院会开设“Linux 系统基础”选修课。</br>
 大家可以从中学习 Linux 基本操作与系统知识。</br>
-CPL 课程并不要求 Linux 相关前置知识。
+本课程并不要求 Linux 相关前置知识。技术科学试验班同学若感兴趣，可以自学。
 
 ## **macOS**
 
@@ -108,9 +108,37 @@ int main() {
 }
 ```
 
-## 为开发环境锦上添花
+## 为开发环境锦上添花--插件推荐
 
-(TODO: VS Code 与 CLion 的各种好用插件推荐，快捷键，自定义主题)
+- CLion
+  - Indent Rainbow：彩虹缩进
+
+  - Rainbow Brackets：彩虹括号
+
+  - [SonarLint](https://www.sonarlint.org/index.html): 代码检查工具
+
+  - Key Promoter X：快捷键提示
+
+  - WakaTime：统计写代码的时间
+
+  - IdeaVim：在 CLion 使用 Vim
+
+- VS Code
+  - C/C++ Extension Pack：C 语言扩展包
+
+  - Code Runner：一键编译运行代码
+
+  - indent-rainbow：彩虹缩进
+
+  - Rainbow Brackets：彩虹括号
+
+  - [SonarLint](https://www.sonarlint.org/index.html): 代码检查工具
+
+  - GitLens、Git History、Git Graph：Git GUI 扩展包
+
+  - Vim：在 VS Code 使用 Vim
+
+?> 扩展商店里还有许多好玩好用的扩展等着你去探索!
 
 ## 小结
 
@@ -120,4 +148,4 @@ int main() {
 
 繁琐的过程、不断的预期落空，难免会带来沮丧。
 
-但动手自有动手的乐趣，生命不息，折腾不止，乐在其中吧。
+但动手自有动手的乐趣，生命不息，折腾不止，乐在其中吧！

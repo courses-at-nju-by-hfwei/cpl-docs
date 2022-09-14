@@ -6,8 +6,14 @@
 
 ## 参考资料
 
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+- TODO: 华为代码风格手册？
+
 ## 工具
+
 - TODO: sonarlint
+
 - TODO: actions on save
 
 

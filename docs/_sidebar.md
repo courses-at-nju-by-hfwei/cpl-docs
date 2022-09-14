@@ -3,7 +3,6 @@
 - [编程练习与项目](problemset)
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
-- [课程资源](resources)
 - [C 语言开发环境](envs)
-- [其它教程](ex-guides)
+- [课程资源](resources)
 - [编程风格](styles)
