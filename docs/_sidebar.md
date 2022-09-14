@@ -6,6 +6,6 @@
 - [C 语言开发环境](envs)
 - [课程资源](resources)
 - [编程风格](styles)
-- 杂项
+- [杂项](ex)
   - [计算机学习的定律](laws)
   - [勇敢尝试 Linux](linuxguide)
