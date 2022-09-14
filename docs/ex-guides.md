@@ -6,6 +6,8 @@
 
 ## OJ (必看) 
 
+Online Judge 作业平台。平时编程练习在 OJ 上提交并进行查重，期末机试也会在 OJ 上进行。
+
 [C语言课程设计评测系统 DotOJ 使用方法介绍 (2022年录制)](https://www.bilibili.com/video/BV1xg411U7Zv)
 
 ## 命令行终端 (必看) 
@@ -15,6 +17,8 @@
 [PowerShell 和 Windows Terminal 使用简介 (2022年录制)](https://www.bilibili.com/video/BV12Y4y1M72R)
 
 ## Git 与 GitHub (必看) 
+
+分布式版本控制系统 Git 与开源软件交流平台 GitHub 都是程序员必备技能。做本课程的项目时会使用到，平时编程练习不做强制要求。
 
 [CLion/VSCode 内嵌 Git 组件 + GitHub 教程 (2022年录制, 偏向于图形化界面操作, 附 GitLab@NJU 平台介绍)](https://www.bilibili.com/video/BV1VG41137RA)
 

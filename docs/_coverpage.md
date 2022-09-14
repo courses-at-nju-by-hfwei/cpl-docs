@@ -2,7 +2,7 @@
 
 <!-- > Welcome to the CPL Class. -->
 
-> Talk is cheap. Show me the code. --- Linus Torvalds
+> <font color="#636363">Talk is cheap. Show me the code. --- Linus Torvalds</font>
 <!-- - `Truth can only be found in one place: the code.` --- Robert C. Martin -->
 
 [GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-docs/)
