@@ -63,7 +63,7 @@
 ![GoogleQuote](.assets/images/google-quote.jpg ":size=700")
 
 提问之前，请先 `STFW`（"Search the Friendly Web"，上网搜索）
-或 `RTFM`（"Read the Friendly Manual"，查手册），尝试自行解决问题。
+或 `RTFM`（"Read the Fruitful Manual"，查手册），尝试自行解决问题。
 
 只有尝试过之后再求助他人，才有助于提升自己解决问题的能力。
 
