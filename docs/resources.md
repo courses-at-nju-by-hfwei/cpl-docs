@@ -4,7 +4,7 @@
 
 ## 常用网站
 
-- [OJ (Online Judge 作业平台)]()
+- [OJ (Online Judge 作业平台)](oj.cpl.icu)
 
   - 请先观看 [OJ 操作指南](ex-guides?id=oj-必看)
 
@@ -15,8 +15,6 @@
 - [Stack Overflow](https://stackoverflow.com/)
 
 - [C Reference](https://en.cppreference.com/w/c)
-
-- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## 视频资源
 
@@ -66,5 +64,5 @@
 
 ## 其它资源
 
-- [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)：
+- [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)</br>
 备课时搜集的资料，杂乱无章，欢迎提供素材。
