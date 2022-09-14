@@ -8,7 +8,7 @@
 
   - 请先观看 [OJ 操作指南](ex-guides?id=oj-必看)
 
-- [Q & A]()
+- [Q & A](qa.cpl.icu)
 
   - 请仔细阅读 [如何提问?](qa?id=如何提问与求助)
 
@@ -16,15 +16,25 @@
 
 - [C Reference](https://en.cppreference.com/w/c)
 
-## 视频资源
+## 教程视频
 
-教程视频与授课视频都会第一时间上传至 B 站。
+助教会将教程视频上传至各自的 B 站空间。
+可在 [收藏夹（待定）@ ant-hengxin] 中查看全集。
+
+- 
+- 
+
+欢迎关注 [助教们的账号 @ Bilibili](./qa?id=助教信息)。
+
+## 授课视频
+
+（软件学院）授课视频会第一时间上传至 B 站。
 
 - [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
 
 - [2021-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
 
-欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149) 以及 [助教们的账号 @ Bilibili](./qa?id=助教信息)。
+欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149)。
 
 ## 课程代码仓库
 
