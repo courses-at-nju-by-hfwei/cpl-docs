@@ -111,30 +111,32 @@ int main() {
 ## 为开发环境锦上添花--插件推荐
 
 - CLion
-
   - Indent Rainbow：彩虹缩进
-  
+
   - Rainbow Brackets：彩虹括号
-  
+
+  - [SonarLint](https://www.sonarlint.org/index.html): 代码检查工具
+
   - Key Promoter X：快捷键提示
-  
-  - IdeaVim：使 CLion 使用 Vim 操作手法
-  
+
   - WakaTime：统计写代码的时间
 
+  - IdeaVim：在 CLion 使用 Vim
+
 - VS Code
+  - C/C++ Extension Pack：C 语言扩展包
 
   - Code Runner：一键编译运行代码
-  
-  - C/C++ Extension Pack：C 语言扩展包
-  
+
   - indent-rainbow：彩虹缩进
-  
+
   - Rainbow Brackets：彩虹括号
-  
+
+  - [SonarLint](https://www.sonarlint.org/index.html): 代码检查工具
+
   - GitLens、Git History、Git Graph：Git GUI 扩展包
-  
-  - Vim：使 VS Code 使用 Vim 操作手法
+
+  - Vim：在 VS Code 使用 Vim
 
 ?> 扩展商店里还有许多好玩好用的扩展等着你去探索!
 
