@@ -6,7 +6,7 @@
 
 - [OJ (Online Judge 作业平台)](http://oj.cpl.icu)：请先观看 [OJ 使用指南](resources?id=教程视频)
   
-- [Q & A 答疑平台](qa.cpl.icu)：请仔细阅读 [如何提问?](qa?id=如何提问与求助)
+- [Q & A 课程问答平台](qa.cpl.icu)：请仔细阅读 [如何提问?](qa?id=如何提问)
 
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -44,7 +44,9 @@
 
 - GDB 与断点调试 (必看) 
 
-  - (TODO: 用 IDE 中图形界面的 GDB 来快速 Debug 的教程)
+  - 学会如何使用 GDB 来快速高效地 Debug。由于学期初代码难度不高，也许还用不上这把“牛刀”，但以后你们就懂了。
+
+  - (TODO: 用 IDE 中图形界面的 GDB 来 Debug 的教程)
 
 - Markdown (推荐) 
 
@@ -56,7 +58,7 @@
 
   - (TODO: 结合 `Windows Terminal` 来使用最方便的 Linux 子系统 `WSL` 进行 C语言代码调试)
 
-  - [Ubuntu 安装与使用 (2021年录制)](https://www.bilibili.com/video/BV1vq4y1X7Wp)
+  - [Ubuntu 虚拟机的安装与使用 (2021年录制)](https://www.bilibili.com/video/BV1vq4y1X7Wp)
 
 欢迎关注 [助教们的账号 @ Bilibili](qa?id=助教信息)。
 
