@@ -4,10 +4,9 @@
 
 ## 常用网站
 
-- [OJ (Online Judge 作业平台)](oj.cpl.icu)
-
-  - 请先观看 [OJ 使用指南](resources?id=教程视频)
-
+- [OJ (Online Judge 作业平台)](http://oj.cpl.icu)
+- 请先观看 [OJ 使用指南](resources?id=教程视频)
+  
 - [Q & A](qa.cpl.icu)
 
   - 请仔细阅读 [如何提问?](qa?id=如何提问与求助)
@@ -109,8 +108,10 @@
 ## 软件资源 (配套视频使用)
 
 - [Softwares @ NJU Box](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/)
+- [南京大学开源镜像站](http://mirrors.nju.edu.cn/) 
 
 ## 其它资源
 
 - [cpl-resources @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources)</br>
-备课时搜集的资料，杂乱无章，欢迎提供素材。
+  备课时搜集的资料，杂乱无章，欢迎提供素材。
+
