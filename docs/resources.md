@@ -84,10 +84,41 @@
 
 ## 参考书籍
 
-- **《C Primer Plus (英文版/中文版) 第六版》 Stephen Prata著, 人民邮电出版社**
+- **The C Programming Language (2nd Edition), Dennis Ritchie and Brian Kernighan**
 
+  绝对的经典之作（Ritchie 是 C 语言之父）。
 
-(TODO: 更多参考书籍)
+  简练，从容。
+
+  但不适合初学者。
+
+  本书不可不读，但也不可一上来就读。
+
+- **C Primer Plus (6th Edition), Stephen Prata**
+
+  虽为经典，但初学者要慎重，防止陷入繁杂的细节之中。
+
+- **Beginning C: From Beginner to Pro (6th Edition), German Gonzalez-Morris and Ivor Horton**
+
+  与我们选定的教材相似，值得对照阅读
+
+- **明解 C 语言 (第三版；入门篇、中级篇), 柴田望洋**
+
+  循循善诱、图文并茂的日本技术类书籍写作风格。
+
+  如果阅读教材感到吃力，可以试试这本书。
+
+- **The Standard C Library, P J. Plaucer**
+
+  精彩纷呈。细心研读，定能收获良多。
+
+- **征服 C 指针 (第二版), 前桥和弥**
+
+  指针是 C 语言学习的一大难点。
+
+  专门讲解 C 语言指针的书籍早就林林总总。
+
+  这一本，甚好。
 
 ## 电子书籍
 
