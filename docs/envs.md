@@ -18,7 +18,9 @@
 
 ?> 课堂讲解与演示将使用 CLion。（具体而言，是使用 Linux 系统 + CLion + Vim 插件）
 
-### 不推荐 IDE
+### 不作推荐的 IDE
+
+若自行安装并配置下述 IDE，本课程的助教们不会提供答疑帮助。
 
 - Xcode：由 Apple Inc 开发的 macOS 专属 IDE。
 
