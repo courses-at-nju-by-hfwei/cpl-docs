@@ -120,6 +120,10 @@
 
   这一本，甚好。
 
+- **华为 C 语言编程指南**
+
+  规范产生美感，也带来安全。
+
 ## 电子书籍
 
 - [cpl-resources/books @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
