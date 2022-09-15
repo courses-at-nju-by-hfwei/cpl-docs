@@ -16,7 +16,7 @@
 
 助教会将教程视频上传至各自的 B 站空间。
 
-可在 [收藏夹（待定）@ ant-hengxin]() 中查看全集。
+可在 [收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看本课程全部教程视频。
 
 ?> 学习优先级： [C 语言开发环境配置](./envs) > 必看 > 推荐。本页按优先级顺序排列。
 
@@ -102,7 +102,7 @@
 
 - [cpl-lectures/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main/2021)
 
-  - 可访问 [cpl-lectures@github.io](https://courses-at-nju-by-hfwei.github.io/cpl-lectures/)
+  - 可访问 [cpl-lectures @ github.io](https://courses-at-nju-by-hfwei.github.io/cpl-lectures/)
 
 !> 课件极为简略。不要指望通过课件学习 C 语言。
 
