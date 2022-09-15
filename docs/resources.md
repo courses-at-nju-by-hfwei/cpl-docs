@@ -92,9 +92,10 @@
 ## 电子书籍
 
 - [cpl-resources/books @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-resources/tree/main/books)
+  - 请阅读 [README](https://github.com/courses-at-nju-by-hfwei/cpl-resources/blob/main/books/README.md) 文件了解详情
 
-- [Books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍。
-  - TODO: 非修订版
+- [Books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍
+  - 请阅读 [README](https://box.nju.edu.cn/f/a685c9f349d14fe993d9/) 文件了解详情
 
 ## 课程课件
 
