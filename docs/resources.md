@@ -72,7 +72,7 @@
 
 - [2021-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
 
-## 课程代码仓库
+## 课程代码
 
 - [coding-1/2022 @ GitHub (待建)]()
 
@@ -142,7 +142,7 @@
 
 !> 课件极为简略。不要指望通过课件学习 C 语言。
 
-## 软件资源 (配套视频使用)
+## 软件资源
 
 - [Softwares @ NJU Box](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/)
 
