@@ -66,7 +66,7 @@
 
 [Jetbrains 学生认证 + Toolbox 安装 CLion (2022 年录制，全平台通用)](https://www.bilibili.com/video/BV1Bd4y1G7a1)
 
-[Windows + VS Code & CLion (2022 年录制)](https://www.bilibili.com/video/BV1eP411j7Gw)
+[Windows + VS Code & CLion (2022 年录制，CLion 部分可以看👆)](https://www.bilibili.com/video/BV1eP411j7Gw)
 
 [~~Windows + VS Code~~ (2021 年录制，不需要观看)](https://www.bilibili.com/video/BV1yA411F7Wk)
 
