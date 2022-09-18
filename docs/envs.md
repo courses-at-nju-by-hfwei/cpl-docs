@@ -6,11 +6,12 @@
 
 ## 选择 IDE
 
-?> 若遇到无法下载问题，可查看 [软件资源](resources?id=软件资源)。
+?> 若遇到无法下载问题，可查看 [软件资源](resources?id=软件资源)。<br>
+高效使用各种 IDE，可查看 [cheat-sheets](https://github.com/hengxin/cheat-sheets) ([CLion](https://github.com/hengxin/cheat-sheets/tree/master/jetbrains), [VSCode](https://github.com/hengxin/cheat-sheets/tree/master/vscode))。
 
 **IDE** ("Integrated Development Environment"，意为"集成开发环境")
 
-就是集 代码编辑器、编译器、调试器和图形用户界面等 为一体的开发环境。
+就是集代码编辑器、编译器、调试器和图形用户界面等为一体的开发环境。
 
 ### 推荐 IDE
 
@@ -18,11 +19,11 @@
 
 [![VS Code LOGO](.assets/images/Visual_Studio_Code_1.35_icon.svg ':size=32') **Visual Studio Code**](https://code.visualstudio.com/)：简称 "VS Code"，由 Microsoft 开发，轻量级编辑器，可以插件方式配置成 C 语言开发环境。
 
-?> 课堂讲解与演示将使用 CLion。（具体而言，是使用 Linux 系统 + CLion + Vim 插件）
+?> 课堂讲解与演示将使用 CLion（Linux 系统 + CLion IDE + Vim 插件）。
 
 ### 不作推荐的 IDE
 
-若自行安装并配置下述 IDE，本课程的助教们可能无法提供答疑帮助。
+若安装以下 IDE，本课程的 [助教团队](qa?id=助教团队) 可能无法提供答疑帮助。
 
 - Xcode：由 Apple Inc 开发的 macOS 专属 IDE。
 

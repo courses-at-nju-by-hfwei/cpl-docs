@@ -15,7 +15,7 @@
 ## 教程视频
 
 助教会将教程视频上传至各自的 B 站空间。
-欢迎关注 [助教们的账号 @ Bilibili](qa?id=助教信息)。
+欢迎关注 [助教们的账号 @ Bilibili](qa?id=助教团队)。
 
 可在 ["2022CPL-视频教程" 收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看本课程全部教程视频。
 
