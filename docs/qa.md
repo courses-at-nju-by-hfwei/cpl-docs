@@ -27,13 +27,13 @@
 |   1   |   张雷   |      夏逸凡       | VS Code                           | Windows 10 / Ubuntu          |
 |   1   |   张雷   |      慈曾宜       | Visual Studio                     | Windows 10                   |
 |   2   |  郭延文  |      郭鹏霄       | VS Code / Xcode                   | macOS                        |
-|   2   |  郭延文  |      杨超超       | CLion                             | Windows 11                   |
-|   2   |  郭延文  |      王照欣       | CLion / Visual Studio             | windows / Ubuntu             |
+|   2   |  郭延文  |      杨超超       | CLion                             | Windows 10                   |
+|   2   |  郭延文  |      王照欣       | CLion / Visual Studio             | Windows / Ubuntu             |
 |   3   |  王慧妍  |      高明晨       | VS Code / Visual Studio / Dev-C++ | Windows / Ubuntu             |
 |   3   |  王慧妍  |      王宇嘉       | VS Code / Visual Studio           | Windows                      |
 |   3   |  王慧妍  |       胡雨        | VS Code / Visual Studio/Vim       | macOS / Windows 11           |
 |   4   |  杨已彪  |      李清扬       | CLion / Dev-C++                   | Windows 10 / Ubuntu          |
-|   4   |  杨已彪  |      茆文杰       | CLion                             | Windows 10                   |
+|   4   |  杨已彪  |      茆文杰       | CLion                             | Windows 11                   |
 |   4   |  杨已彪  |      姜钊炜       | Dev-C++                           | Windows 10                   |
 |   5   |   陈鑫   |      黄冯磊       | Visual Studio                     | Windows 10                   |
 |   5   |   陈鑫   |      吴朵朵       | Visual Studio                     | Windows 10                   |
