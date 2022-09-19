@@ -19,7 +19,7 @@
 
 [![VS Code LOGO](.assets/images/Visual_Studio_Code_1.35_icon.svg ':size=32') **Visual Studio Code**](https://code.visualstudio.com/)：简称 "VS Code"，由 Microsoft 开发，轻量级编辑器，Windows / macOS / Linux 系统下均可使用，可以插件方式配置成 C 语言开发环境。
 
-?> 课堂讲解与演示将使用 CLion（Linux 系统 + CLion IDE + Vim 插件）。</br>
+?> 软件学院的课堂讲解与演示将使用 CLion（Linux 系统 + CLion IDE + Vim 插件）。</br>
 （任意系统下）使用 CLion 会更加容易跟上课堂节奏，若要安装上述两款 IDE，请仔细观看[教程视频](envs?id=选择操作系统)。
 
 ### 不作推荐的 IDE
