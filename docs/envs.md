@@ -15,23 +15,26 @@
 
 ### 推荐 IDE
 
-[![CLion LOGO](.assets/images/Clion.svg ':size=32') **CLion**](https://www.jetbrains.com/clion/)：由 Jetbrains 开发，多平台均可使用，需申请 Jetbrains 学生认证。
+[![CLion LOGO](.assets/images/Clion.svg ':size=32') **CLion**](https://www.jetbrains.com/clion/)：由 Jetbrains 开发，Windows / macOS / Linux 系统下均可使用，需申请 Jetbrains 学生认证。
 
-[![VS Code LOGO](.assets/images/Visual_Studio_Code_1.35_icon.svg ':size=32') **Visual Studio Code**](https://code.visualstudio.com/)：简称 "VS Code"，由 Microsoft 开发，轻量级编辑器，可以插件方式配置成 C 语言开发环境。
+[![VS Code LOGO](.assets/images/Visual_Studio_Code_1.35_icon.svg ':size=32') **Visual Studio Code**](https://code.visualstudio.com/)：简称 "VS Code"，由 Microsoft 开发，轻量级编辑器，Windows / macOS / Linux 系统下均可使用，可以插件方式配置成 C 语言开发环境。
 
-?> 课堂讲解与演示将使用 CLion（Linux 系统 + CLion IDE + Vim 插件）。
+?> 软件学院的课堂讲解与演示将使用 CLion（Linux 系统 + CLion IDE + Vim 插件）。</br>
+（任意系统下）使用 CLion 会更加容易跟上课堂节奏，若要安装上述两款 IDE，请仔细观看[教程视频](envs?id=选择操作系统)。
 
 ### 不作推荐的 IDE
 
 若安装以下 IDE，本课程的 [助教团队](qa?id=助教团队) 可能无法提供答疑帮助。
 
-- Xcode：由 Apple Inc 开发的 macOS 专属 IDE。
+- Visual Studio 20xx：简称 "VS"，由 Microsoft 开发，与上文的 VS Code 截然不同，切勿混淆，仅在 Windows 系统下有完善的支持。
 
 - Dev-C++：很古老的 IDE，功能不够全但足够应付本课程；界面不美观，严重影响工作心情。
 
-- Visual Studio 20xx：简称 "VS"，由 Microsoft 开发，与上文的 VS Code 截然不同，切勿混淆。
+- Xcode：由 Apple Inc 开发的 macOS 专属 IDE。
 
-- Sublime、Notepad++、记事本、~~Microsoft Office Word~~、纸笔：通常只有找工作面试时才会用到。
+- Sublime：轻量级编辑器，需经过插件配置成 C 语言开发环境。
+
+- Notepad++、记事本、~~Microsoft Office Word~~、纸笔：通常只有找工作面试时才会用到。
 
 - Vim：需经过复杂配置、长期训练，才能游刃有余，对初学者极不友好。
 

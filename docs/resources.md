@@ -6,7 +6,7 @@
 
 - [OJ (Online Judge 作业平台)](http://oj.cpl.icu)：请先观看 [OJ 使用指南](resources?id=教程视频)
 
-- [Q & A 课程问答平台](qa.cpl.icu)：请仔细阅读 [如何提问?](qa?id=如何提问)
+- [Q & A 课程问答平台](http://qa.cpl.icu)(尚未就绪)：请仔细阅读 [如何提问?](qa?id=如何提问)
 
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -19,7 +19,8 @@
 
 可在 ["2022CPL-视频教程" 收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看本课程全部教程视频。
 
-?> 以下按优先级顺序排列。
+?> 以下按优先级顺序排列。</br>
+“必看”是针对软件学院的学生，技术科学试验班学生根据自己的需求自行选择。
 
 - [C 语言开发环境配置](./envs)
 
