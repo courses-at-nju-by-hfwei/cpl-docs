@@ -12,6 +12,8 @@
 
 - [C Reference](https://en.cppreference.com/w/c)
 
+- TODO: well-known programming contests
+
 ## 教程视频
 
 助教会将教程视频上传至各自的 B 站空间。
