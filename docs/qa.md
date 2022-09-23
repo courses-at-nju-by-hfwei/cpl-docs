@@ -8,16 +8,16 @@
 
 ### **软件学院**
 
-| 姓名 (按姓氏排序) | 擅长工具                        | 使用的系统                |                     Bilibili账号 (可选)                     |
-| :---------------: | ------------------------------- | ------------------------- | :---------------------------------------------------------: |
-|      蔡之恒       | VS Code / CLion                 | macOS / Ubuntu            |                         (不想透露)                          |
-|      李薛成       | CLion / VS Code / Typora        | Windows 11 / WSL / Ubuntu |       [Sakiyary](https://space.bilibili.com/12502995)       |
-|      毛子钰       | Vim / Terminal                  | Ubuntu 22.04              |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
-|       浦亮        | VS Code                         | Windows 10                |   [水龙之魂Official](https://space.bilibili.com/4780141)    |
-|      孙博文       | Vim / Makefile / bash           | Ubuntu / ArchLinux        | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
-|       肖江        | VS Code                         | Windows / Ubuntu          |                         (不想透露)                          |
-|      熊丘桓       | VS Code / Typora / Dev-C++      | Windows 10                |      [雁卷西楼](https://space.bilibili.com/679618337)       |
-|      张哲恺       | VS Code / Typora                | Windows 11                |   [不理发的小粉毛](https://space.bilibili.com/330247538)    |
+| 姓名 (按姓氏排序) | 擅长工具                   | 使用的系统                |                     Bilibili账号 (可选)                     |
+| :---------------: | -------------------------- | ------------------------- | :---------------------------------------------------------: |
+|      蔡之恒       | VS Code / CLion            | macOS / Ubuntu            |                         (不想透露)                          |
+|      李薛成       | CLion / VS Code / Typora   | Windows 11 / WSL / Ubuntu |       [Sakiyary](https://space.bilibili.com/12502995)       |
+|      毛子钰       | Vim / Terminal             | Ubuntu 22.04              |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
+|       浦亮        | VS Code                    | Windows 10                |   [水龙之魂Official](https://space.bilibili.com/4780141)    |
+|      孙博文       | Vim / Makefile / bash      | Ubuntu / ArchLinux        | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
+|       肖江        | VS Code                    | Windows / Ubuntu          |                         (不想透露)                          |
+|      熊丘桓       | VS Code / Typora / Dev-C++ | Windows 10                |      [雁卷西楼](https://space.bilibili.com/679618337)       |
+|      张哲恺       | VS Code / Typora           | Windows 11                |   [不理发的小粉毛](https://space.bilibili.com/330247538)    |
 
 ### **技术科学试验班**
 
@@ -111,3 +111,9 @@
 问答网站有完善的积分机制，我们会根据大家的参与情况进行**奖励**，
 
 比如“秋天的第一杯奶茶”、书籍、自定义奖品等。
+
+## 问卷留言答复
+
+[留言回复-20220921-蔡之恒](https://box.nju.edu.cn/f/878458f870d3498dbee3/)
+
+[留言回复-20220922-孙博文](https://box.nju.edu.cn/f/da3ceda2f7a449849d2d/)
