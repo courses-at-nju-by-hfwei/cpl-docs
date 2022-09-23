@@ -77,9 +77,9 @@
 
 ## 课程代码
 
-- [coding-1/2022 @ GitHub (待建)]()
+- [coding-1/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-1)
 
-- [coding-2/2022 @ GitHub (待建)]()
+- [coding-2/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-2)
 
 - [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1)
 
