@@ -71,7 +71,7 @@
 （软件学院）授课视频会第一时间上传至 B 站。
 欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149)。
 
-- [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=2609917)
+- [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=735933)
 
 - [2021-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=490580)
 
@@ -127,7 +127,7 @@
 
   规范产生美感，也带来安全。
 
-<!-- - **疲劳自救手册（第二版），伯吉斯，查尔德** -->
+- **疲劳自救手册（第二版），伯吉斯，查尔德**
 
 ## 电子书籍
 
