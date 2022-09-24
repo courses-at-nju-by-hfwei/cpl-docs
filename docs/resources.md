@@ -6,7 +6,7 @@
 
 - [OJ (Online Judge 作业平台)](http://oj.cpl.icu)：请先观看 [OJ 使用指南](resources?id=教程视频)
 
-- [Q & A 课程问答平台](http://qa.cpl.icu)(尚未就绪)：请仔细阅读 [如何提问?](qa?id=如何提问)
+- [Q & A 课程问答平台 (尚未就绪)](http://qa.cpl.icu)：请仔细阅读 [如何提问?](qa?id=如何提问)
 
 - [Stack Overflow](https://stackoverflow.com/)
 
@@ -85,6 +85,25 @@
 
 - [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)
 
+## 课程课件
+
+<!-- tabs:start -->
+
+### **软件学院**
+
+- [cpl-lectures/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2022)
+
+- [cpl-lectures/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main/2021)
+
+  - 可访问 [cpl-lectures @ github.io](https://courses-at-nju-by-hfwei.github.io/cpl-lectures/)
+
+!> 课件极为简略。不要指望通过课件学习 C 语言。
+
+### **技术科学试验班**
+
+
+<!-- tabs:end -->
+
 ## 参考书籍
 
 - **The C Programming Language (2nd Edition), Dennis Ritchie and Brian Kernighan**
@@ -136,16 +155,6 @@
 
 - [Books @ NJU Box](https://box.nju.edu.cn/d/72a86dce9c444e98a7bd/) 存放超出 GitHub 默认文件大小的电子书籍
   - 请阅读 [README](https://box.nju.edu.cn/f/a685c9f349d14fe993d9/) 文件了解详情
-
-## 课程课件
-
-- [cpl-lectures/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2022)
-
-- [cpl-lectures/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/tree/main/2021)
-
-  - 可访问 [cpl-lectures @ github.io](https://courses-at-nju-by-hfwei.github.io/cpl-lectures/)
-
-!> 课件极为简略。不要指望通过课件学习 C 语言。
 
 ## 软件资源
 
