@@ -101,6 +101,7 @@
 
 ### **技术科学试验班**
 
+- [各班课件](https://box.nju.edu.cn/d/e3e80ffcc8f045ff96b1/)
 
 <!-- tabs:end -->
 
