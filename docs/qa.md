@@ -21,26 +21,26 @@
 
 ### **技术科学试验班**
 
-| 班级  | 任课教师 | 姓名 (按姓氏排序) | 擅长工具                          | 使用的系统                   |
-| :---: | :------: | :---------------: | --------------------------------- | ---------------------------- |
-|   1   |   张雷   |      宋鉴清       | Visual Studio / Dev-C++ / VS Code | Windows 10 / Ubuntu / Debian |
-|   1   |   张雷   |      夏逸凡       | VS Code                           | Windows 10 / Ubuntu          |
-|   1   |   张雷   |      慈曾宜       | Visual Studio                     | Windows 10                   |
-|   2   |  郭延文  |      郭鹏霄       | VS Code / Xcode                   | macOS                        |
-|   2   |  郭延文  |      杨超超       | CLion                             | Windows 10                   |
-|   2   |  郭延文  |      王照欣       | CLion / Visual Studio             | Windows / Ubuntu             |
-|   3   |  王慧妍  |      高明晨       | VS Code / Visual Studio / Dev-C++ | Windows / Ubuntu             |
-|   3   |  王慧妍  |      王宇嘉       | VS Code / Visual Studio           | Windows                      |
-|   3   |  王慧妍  |       胡雨        | VS Code / Visual Studio/Vim       | macOS / Windows 11           |
-|   4   |  杨已彪  |      李清扬       | CLion / Dev-C++                   | Windows 10 / Ubuntu          |
-|   4   |  杨已彪  |      茆文杰       | CLion                             | Windows 11                   |
-|   4   |  杨已彪  |      姜钊炜       | Dev-C++                           | Windows 10                   |
-|   5   |   陈鑫   |      黄冯磊       | Visual Studio                     | Windows 10                   |
-|   5   |   陈鑫   |      吴朵朵       | Visual Studio                     | Windows 10                   |
-|   5   |   陈鑫   |      高昊宇       | CLion                             | Windows 10                   |
-|   6   |   冯洋   |      林哲远       | CLion / Visual Studio             | Windows 11 / Ubuntu          |
-|   6   |   冯洋   |      刘子夕       | CLion / Dev-C++ / VS Code         | Windows 10 / macOS           |
-|   6   |   冯洋   |      陈哲宇       | Vim / VS Code                     | Windows 10 / macOS           |
+| 班级  | 任课教师 |  姓名  | 擅长工具                          | 使用的系统                   |
+| :---: | :------: | :----: | --------------------------------- | ---------------------------- |
+|   1   |   张雷   | 宋鉴清 | Visual Studio / Dev-C++ / VS Code | Windows 10 / Ubuntu / Debian |
+|   1   |   张雷   | 夏逸凡 | VS Code                           | Windows 10 / Ubuntu          |
+|   1   |   张雷   | 慈曾宜 | Visual Studio                     | Windows 10                   |
+|   2   |  郭延文  | 郭鹏霄 | VS Code / Xcode                   | macOS                        |
+|   2   |  郭延文  | 杨超超 | CLion                             | Windows 10                   |
+|   2   |  郭延文  | 王照欣 | CLion / Visual Studio             | Windows / Ubuntu             |
+|   3   |  王慧妍  | 高明晨 | VS Code / Visual Studio / Dev-C++ | Windows / Ubuntu             |
+|   3   |  王慧妍  | 王宇嘉 | VS Code / Visual Studio           | Windows                      |
+|   3   |  王慧妍  |  胡雨  | VS Code / Visual Studio / Vim     | macOS / Windows 11           |
+|   4   |  杨已彪  | 李清扬 | CLion / Dev-C++                   | Windows 10 / Ubuntu          |
+|   4   |  杨已彪  | 茆文杰 | CLion                             | Windows 11                   |
+|   4   |  杨已彪  | 姜钊炜 | Dev-C++                           | Windows 10                   |
+|   5   |   陈鑫   | 黄冯磊 | Visual Studio                     | Windows 10                   |
+|   5   |   陈鑫   | 吴朵朵 | Visual Studio                     | Windows 10                   |
+|   5   |   陈鑫   | 高昊宇 | CLion                             | Windows 10                   |
+|   6   |   冯洋   | 林哲远 | CLion / Visual Studio             | Windows 11 / Ubuntu          |
+|   6   |   冯洋   | 刘子夕 | CLion / Dev-C++ / VS Code         | Windows 10 / macOS           |
+|   6   |   冯洋   | 陈哲宇 | Vim / VS Code                     | Windows 10 / macOS           |
 
 <!-- tabs:end -->
 
@@ -66,7 +66,7 @@
 
 | 答疑日期 | 开始时间 | 答疑助教                       |
 | :------: | :------: | ------------------------------ |
-|   周一   |  20:00   | 郭鹏霄、胡雨、慈曾宜、扬超超    |
+|   周一   |  20:00   | 郭鹏霄、胡雨、慈曾宜、扬超超   |
 |   周三   |  20:00   | 王照欣、慈曾宜                 |
 |   周六   |  19:00   | 高明晨、宋鉴清、王宇嘉、夏逸凡 |
 
