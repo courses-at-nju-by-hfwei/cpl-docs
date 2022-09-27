@@ -68,7 +68,7 @@
 
 | 答疑日期 | 开始时间 | 答疑助教                       |
 | :------: | :------: | ------------------------------ |
-|   周一   |  20:00   | 郭鹏霄、胡雨、慈曾宜、扬超超   |
+|   周一   |  20:00   | 郭鹏霄、胡雨、慈曾宜、杨超超   |
 |   周三   |  20:00   | 王照欣、慈曾宜                 |
 |   周六   |  19:00   | 高明晨、宋鉴清、王宇嘉、夏逸凡 |
 
@@ -87,7 +87,7 @@
 
 ## 如何提问
 
-?> 如何正确提问：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像弱智一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
+?> 如何正确提问：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像傻瓜一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
 首先，在大学期间，你要有意识地“逼迫”自己养成**“遇到问题先独立思考”**的习惯，而不是逃避性地直接从别处获取答案。
 
