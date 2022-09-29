@@ -81,8 +81,8 @@
 | 周数 | 内容 | 知识点 | 备注 | 阅读材料 |
 | ----- | ----- | ----- | ----- | ----- |
 | 3 | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 | 1.1、1.2；2.1、2.2、2.3|
-| 4 | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周; 2 个课时, 可能讲不完 `scanf`, 3 个课时应该没问题 | 2.4--2.8；3.1--3.2；4.1--4.5 |
-| 5 | If, For, Array | | | |
+| 4 | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周; 2 个课时, 可能讲不完 `scanf`, 3 个课时应该没问题 | 2.4--2.8；3.1--3.2；4.1--4.5；22.3；23.4、23.5 |
+| 5 | If, For, Array | `if` 语句、初步介绍 `for` 循环语句、一维数组 | 软件学院 2 个学时内讲不了 `switch/case`（5.3），可以安排学生自学 | 5.1--5.3；6.3；8.1 |
 | 6 | For, While, Do-While | | | |
 | 7 | Loops; Multidimensional Arrays | More examples; `break`, `continue`| | |
 | 8 | Function | | | |
