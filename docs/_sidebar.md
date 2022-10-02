@@ -10,3 +10,4 @@
   - [计算机学习的定律](laws)
   - [勇敢尝试 Linux](linuxguide)
   - [附加题选讲](optional)
+  - [OJ 是怎么运行的 ？](howojworks)
