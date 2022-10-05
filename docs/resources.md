@@ -12,6 +12,8 @@
 
 - [C Reference](https://en.cppreference.com/w/c)
 
+- [comp.lang.c Frequently Asked Questions](https://c-faq.com/)
+
 - TODO: well-known programming contests
 
 ## 教程视频

@@ -32,7 +32,36 @@ Linux 好吗？/ 能用吗？
 
 - Linux 上有 QQ 。deepin-wine-qq 是一个很好的项目，并且已经基本成熟了。此外还可以选择 vscode 的 qq 插件，或是基于 electron 的 icalingua 。
 - Linux 上有 **steam**。开启了 Proton 兼容层之后还是可以玩**半数以上**的游戏。其中包括 CS:GO，APEX...
-- Linux 可以看视频、听音乐(vlc)。
+- Linux 可以看视频、听音乐(vlc)。刷 B 站不是轻轻松松？
+
+(图为助教自己日常使用的 Linux 环境)
+
+<img src=".assets\images\image-20220929140449465.png" alt="image-20220929140449465" style="zoom: 12%;" />
+
+
+
+## Linux 的最大优势
+
+开发环境配置方便。以 Ubuntu 为例
+
+- `apt install build-essential` 一行安装 C/C++ 开发环境
+- `apt install openjdk-xx-jdk` 直接安装 java 开发环境
+
+比起在 Windows 上要规避中文用户名，要配置一堆环境变量...Linux 直接禁止你使用中文用户名，各种工具链开箱即用。
+
+
+
+在 Windows 下：
+
+- 这个按钮按下去，到底发生了什么？
+  - 发射核弹
+  - 删掉了一些重要文件
+  - 发生了一些我感知不到的神秘变化
+
+在 Linux 下，这些都是不存在的！
+
+- 一个动作一条命令，做了什么一清二楚，历史记录永久可查（需配置）
+- trace 工具帮助你看到到底发生了什么
 
 
 
