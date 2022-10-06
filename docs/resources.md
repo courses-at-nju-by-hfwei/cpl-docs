@@ -79,13 +79,15 @@
 
 ## 课程代码
 
-- [coding-1/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-1)
+- [coding-0 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-0): 备课代码仓库
 
-- [coding-2/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-2)
+- [coding-1/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-1)：2022 级软件学院 1 班课堂代码
 
-- [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1)
+- [coding-2/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2022-cpl-coding-2): 2022 级软件学院 2 班课堂代码
 
-- [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)
+- [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1): 2021 级软件学院 1 班课堂代码
+
+- [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)：2021 级软件学院 2 班课堂代码
 
 ## 课程课件
 
