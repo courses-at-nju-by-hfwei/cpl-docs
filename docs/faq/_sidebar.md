@@ -7,4 +7,8 @@
 - [课程资源](resources)
 - [编程风格](styles)
 - [FAQ](faq/faq)
+  - [0-intro](faq/0-intro)
+  - [1-types-io](faq/1-types-io)
+  - [2-if-for-array](faq/2-if-for-array)
+  - [3-for-a-while](faq/3-for-a-while)
 - [杂项](misc/misc)
