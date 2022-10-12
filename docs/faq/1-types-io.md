@@ -85,7 +85,7 @@ int main(){
 
 ### 参考资料
 
-![img](https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/LvBPlNK3KJkVndG8/img/61eaae5a-4040-41ce-bff2-2ae07b009248.png)
+![img](../.assets/images/whitespace-characters.jpg)
 
 https://en.cppreference.com/w/c/io/fscanf
 
