@@ -4,7 +4,7 @@
 
 ## 全局变量 or 局部变量
 
-<small>updated by 张哲恺</small>
+<small>updated by 张哲恺	offered by 蚂蚁蚂蚁</small>
 
 ### 问题描述
 
