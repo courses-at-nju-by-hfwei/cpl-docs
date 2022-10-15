@@ -7,7 +7,7 @@
 - [课程资源](resources)
 - [编程风格](styles)
 - [FAQ](faq/faq)
-  - [Universal](faq/Universal)
+  - [UB](faq/ub)
   - [0-intro](faq/0-intro)
   - [1-types-io](faq/1-types-io)
   - [2-if-for-array](faq/2-if-for-array)
