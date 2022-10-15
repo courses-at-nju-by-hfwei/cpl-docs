@@ -4,7 +4,7 @@
 
 ## 全局变量 or 局部变量
 
-<small>updated by 张哲恺</small>
+<small>updated by 张哲恺	offered by 蚂蚁蚂蚁</small>
 
 ### 问题描述
 
@@ -22,7 +22,8 @@
 #include <stdio.h>
 #define N 1e7+5 
 #define n 1e4+5
-char S[N]; //大数组更适合存储为全局变量，不过现阶段存储为局部变量也不会有太大影响
+char S[N]; //大数组应该存储为全局变量，如果存储为局部变量但是超出了存储上限会出错
+//具体表现为运行程序后一段时间没有任何反应，并自动退出程序
 int main(){
   char s[n]; //小数组存储为局部变量
   return 0;
@@ -38,7 +39,7 @@ char S[N];
 int main(){
   char s[n];
   printf("%s\n%s", S, s);
-  //不妨自己试一试
+  //不妨自己试一试，但不要把n和N define得太大，否则会看花眼
 }
 ```
 
