@@ -88,7 +88,7 @@
 | 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; `break/continue`| 建议讲解 Conway's Game of Life | 8.2、8.3 |
 | 8 (5-function) | Function | | | |
 | 9 | Recursion | | | |
-| 10 | Recursion; Data Types | | | |
+| 10 | Recursion; Data Types | | 介绍 Undefined Behaviors (最迟在此次课介绍) | |
 | 11 | Pointers | | | |
 | 12 | Pointers (More) | | | |
 | 13 | Pointers; Struct; Union | | | |
