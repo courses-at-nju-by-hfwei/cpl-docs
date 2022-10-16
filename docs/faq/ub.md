@@ -61,7 +61,7 @@
 
 一般来说这种未定义行为会在编译时反馈警告，所以一定要特别注意编译器的反馈信息！
 
-![img](..\.assets\images\ub-warning1.png)
+![img](../.assets/images/ubwarning.jpg)
 
 这里的反馈信息即在代码第4行处，`%f`期望一个为float类型的参数，但第二个参数的类型为int
 
