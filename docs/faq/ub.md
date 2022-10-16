@@ -57,11 +57,11 @@
 
 !> 即便有这样的规律，编程时也不应该使用！
 
-但如果两种类型不可被理解时，其存储的值将无规律可循（见例1.4）
+但如果两种类型不可被相互理解时，其存储的值将无规律可循（见例1.4）
 
 一般来说这种未定义行为会在编译时反馈警告，所以一定要特别注意编译器的反馈信息！
 
-![](D:\Learning\College\TeachingAsistant\doc\cpl-docs\docs\.assets\images\ub-warning1.png)
+![](..\.assets\images\ub-warning1.png)
 
 这里的反馈信息即在代码第4行处，`%f`期望一个为float类型的参数，但第二个参数的类型为int
 
