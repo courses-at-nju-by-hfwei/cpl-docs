@@ -190,7 +190,7 @@ int main(){
 //eg 3.1
 //求正数序列最大值
 #define N 5
-int num[5] = {0, 1, 2, 3, 4};
+int num[N] = {0, 1, 2, 3, 4};
 int main(){
     int max_num;
     //本地真的很难测出来:(理解到意思就好
@@ -213,7 +213,7 @@ int main(){
 //eg 3.2
 //数字序列求和
 #define N 5
-int num[5] = {0, 1, 2, 3, 4};
+int num[N] = {0, 1, 2, 3, 4};
 int main(){
     int sum;
     //同理
