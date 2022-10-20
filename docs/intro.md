@@ -41,6 +41,7 @@
 <!-- tabs:end -->
 
 ## 授课安排
+软件学院每周 $2$ 个课时，技术科学试验班每周 $3$ 个课时。
 
 <!-- tabs:start -->
 
@@ -57,16 +58,16 @@
 ## 授课教材
 
 ?> 不统一发放教材。</br>
-请同学们自行购买印刷版或使用[电子版](resources?id=电子书籍)。</br>
+请同学们自行购买印刷版或使用 [电子版](resources?id=电子书籍)。</br>
 可以考虑从学长处购买二手书，书上的笔记或许对你有帮助（如果学长读了书的话）。<br>
 
 - **《C语言程序设计 现代方法 (英文版/中文版) 第2版 修订版》 K. N. King 著, 人民邮电出版社**
 
 本书是大部头，一学期讲不完。
 
-每周课前，会发布建议阅读章节。见下方[教学周历](intro?id=教学周历)。
+每周课前，会发布建议阅读章节。见下方 [教学周历](intro?id=教学周历)。
 
-课后，学生也要反复阅读教材指定章节，尤其是要补充学习课上仅作简单介绍的知识点。
+**课后，学生也要反复阅读教材指定章节，尤其是要补充学习课上仅作简单介绍的知识点。**
 
 对于课堂上仅作简要介绍或没有介绍、但属于教材指定章节的知识点，[OJ 练习](problemset) 中也会涉及。
 
@@ -86,9 +87,9 @@
 | 5 (2-if-for-array) | If, For, Array | `if` 语句、初步介绍 `for` 循环语句、一维数组 | 软件学院 2 个学时内讲不了 `switch/case`（5.3），可以安排学生自学 | 5.1--5.3；6.3；8.1 |
 | 6 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break/continue` | 请务必讲解 `selection sort` 与 `binary search` (这周与下周两周内) | 6.1、6.2、6.4、6.5 |
 | 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; `break/continue`| 建议讲解 Conway's Game of Life | 8.2、8.3 |
-| 8 (5-function) | Function | | | |
-| 9 | Recursion | | | |
-| 10 | Recursion; Data Types | | 介绍 Undefined Behaviors (最迟在此次课介绍) | |
+| 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选 | 9.1 -- 9.5、10.1 -- 10.5 |
+| 9 | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作高要求 | 9.6 |
+| 10 | Data Types | | 介绍 Undefined Behaviors (最迟在此次课介绍) | |
 | 11 | Pointers | | | |
 | 12 | Pointers (More) | | | |
 | 13 | Pointers; Struct; Union | | | |
@@ -99,7 +100,7 @@
 
 (软件学院) 授课采用“现场解题、写代码”的形式。
 
-每次课前（前两次课除外），在 [GitHub (待定)]() 上公布题目以及空的代码文件。
+每次课前（前两次课除外），在 [GitHub](resources?id=课程代码) 上公布题目以及空的代码文件。
 
 ?> 大家**不需要**做到在课堂上跟着写代码。<br>
 课堂上重在理解知识点，掌握思路。<br>
