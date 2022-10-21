@@ -115,7 +115,7 @@ int main() {
 
 
 
-![img](.assets/images/LH$ENS22SHE0%Q%M3UN}YEB.jpg)
+![img](.assets/images/if.jpg)
 
 > 如果这个 if 再藏得深一点，加上后面有个注释，你可能一辈子都看不到后面有个分号。。。
 
