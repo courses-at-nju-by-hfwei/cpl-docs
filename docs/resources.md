@@ -12,6 +12,8 @@
 
 - [C Reference](https://en.cppreference.com/w/c)
 
+- [www.iso-9899.info](https://www.iso-9899.info/wiki/Main_Page): We discuss all aspects of programming in C.
+
 - [comp.lang.c Frequently Asked Questions](https://c-faq.com/)
 
 - TODO: well-known programming contests
