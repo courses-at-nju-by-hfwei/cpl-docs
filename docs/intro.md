@@ -88,12 +88,12 @@
 | 6 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break/continue` | 请务必讲解 `selection sort` 与 `binary search` (这周与下周两周内) | 6.1、6.2、6.4、6.5 |
 | 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; `break/continue`| 建议讲解 Conway's Game of Life | 8.2、8.3 |
 | 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选 | 9.1 -- 9.5、10.1 -- 10.5 |
-| 9 | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作高要求 | 9.6 |
-| 10 | Data Types | | 介绍 Undefined Behaviors (最迟在此次课介绍) | |
-| 11 | Pointers | | | |
-| 12 | Pointers (More) | | | |
-| 13 | Pointers; Struct; Union | | | |
-| 14 | Linked Lists | | | |
+| 9 (6-recursion) | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作高要求 | 9.6 |
+| 10 (7-data-types) | Data Types | 基本数据类型 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
+| 11 (8-pointers) | Pointers | | | |
+| 12 (9-more-pointers) | Pointers (More) | | | |
+| 13 (10-struct) | Pointers; Struct; Union | | | |
+| 14 (11-linkedlists) | Linked Lists | | | |
 <!-- | 15 | Networking Programming (项目补充) | -->
 
 ## 授课方式
