@@ -72,12 +72,12 @@
         errorText: '复制失败',
         successText: '复制成功!'
       },
-      // pagination: {
-      //   previousText: '上一章节',
-      //   nextText: '下一章节',
-      //   crossChapter: true,
-      //   crossChapterText: true,
-      // },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
       count: {
         language: 'chinese',
       },
@@ -89,13 +89,12 @@
       //   meta: ['nick', 'mail'],
       //   requiredFields: ['nick', 'mail'],
       //   recordIP: true,
-      // }, 
+      // },
       plugins: [
         function (hook) {
-          hook.beforeEach(function (html) {
+          hook.afterEach(function (html) {
             return (
               html +
-              '\n\n----\n\n' +
               '<div style="text-align: center;"><a href="http://beian.miit.gov.cn/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none; ">苏ICP备2022043609号</a></div>'
             );
           })
@@ -107,7 +106,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-c.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@2"></script>
-  <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
