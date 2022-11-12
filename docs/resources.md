@@ -58,7 +58,7 @@
 
   - [断点调试宝典 (Visual Studio - 郭延文)](https://box.nju.edu.cn/f/60f198c2b03b483a9c67/)
 
-  - (TODO: 用 IDE 中图形界面的 GDB 来 Debug 的教程)
+  - [CLion 调试器使用方法](https://www.bilibili.com/video/BV1Gm4y1F72y/)
 
 - Markdown (推荐)
 
