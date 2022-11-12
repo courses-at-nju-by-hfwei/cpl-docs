@@ -90,7 +90,7 @@
 | 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选 | 9.1 -- 9.5、10.1 -- 10.5 |
 | 9 (6-recursion) | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作高要求 | 9.6 |
 | 10 (7-data-types) | Data Types | 基本数据类型 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
-| 11 (8-pointers) | Pointers | | | |
+| 11 (8-pointers) | Pointers | 指针的基本概念，指针与函数，指针与一维数组 | | 11.1 -- 11.5；12.1 -- 12.3 |
 | 12 (9-more-pointers) | Pointers (More) | | | |
 | 13 (10-struct) | Pointers; Struct; Union | | | |
 | 14 (11-linkedlists) | Linked Lists | | | |
