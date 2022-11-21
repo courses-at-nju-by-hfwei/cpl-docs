@@ -91,7 +91,7 @@
 | 9 (6-recursion) | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作高要求 | 9.6 |
 | 10 (7-data-types) | Data Types | 基本数据类型 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
 | 11 (8-pointers) | Pointers | 指针的基本概念，指针与函数，指针与一维数组 | | 11.1 -- 11.5；12.1 -- 12.3 |
-| 12 (9-more-pointers) | Pointers (More) | | | |
+| 12 (9-more-pointers) | Pointers (More) | 指针与二维数组、指针与字符串 | | 12.4；13.1 -- 13.7 |
 | 13 (10-struct) | Pointers; Struct; Union | | | |
 | 14 (11-linkedlists) | Linked Lists | | | |
 <!-- | 15 | Networking Programming (项目补充) | -->
