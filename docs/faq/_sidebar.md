@@ -1,6 +1,7 @@
 - [课程简介](intro)
 - [课程评价指标](hw)
-- [编程练习与项目](problemset)
+- [编程练习与题解](problemset)
+- [项目要求](project)
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
 - [C 语言开发环境](envs)
