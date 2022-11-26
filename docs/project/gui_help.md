@@ -10,4 +10,6 @@
 
 [SDL2 的一些基本操作](https://www.bilibili.com/video/BV1QZ4y197Yk/)
 
+[SDL2 主体+部分插件下载](https://box.nju.edu.cn/d/743b63be5c6b4e20bb88/)
+
 > Sakiyary：我记得去年操作教程里的代码是会产生内存泄漏的……记得自己去捉虫！
