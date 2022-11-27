@@ -92,10 +92,10 @@
 | 10 (7-data-types) | Data Types | 基本数据类型 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
 | 11 (8-pointers-arrays) | Pointers | 指针的基本概念，指针与一维数组 | | 11.1 -- 11.5；12.1 -- 12.3 |
 | 12 (9-pointers-c-strings) | Pointers and C Strings | 指针与字符串 | | 12.4；13.1 -- 13.6 |
-| 13 (9-pointers-more) | More Pointers | 指针与字符串数组、命令行参数、指针与二维数组、函数指针 | | 12.4；13.7 |
-| 14 (10-struct) | Pointers; Struct; Union | | | |
-| 15 (11-linkedlists) | Linked Lists | | | |
-| 16 | Networking Programming (期末项目补充) |
+| 13 (10-pointers-more) | More Pointers | 指针与字符串数组、命令行参数、指针与二维数组、函数指针 | | 12.4；13.7 |
+| 14 (11-struct) | Pointers; Struct; Union | | | |
+| 15 (12-linkedlists) | Linked Lists | | | |
+| 16 (13-networking) | Networking Programming (期末项目补充) | | | |
 
 ## 授课方式
 
