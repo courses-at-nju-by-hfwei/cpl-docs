@@ -93,7 +93,7 @@
 | 11 (8-pointers-arrays) | Pointers | 指针的基本概念，指针与一维数组，动态内存分配 | | 11.1 -- 11.5；12.1 -- 12.3；17.1 -- 17.4 |
 | 12 (9-pointers-c-strings) | Pointers and C Strings | 指针与字符串 | | 12.4；13.1 -- 13.6 |
 | 13 (10-double-pointers) | Double Pointers | 指针与字符串数组、命令行参数、指针与二维数组、函数指针 | | 12.4；13.7；17.6、17.7 |
-| 14 (11-struct) | Struct; Union | | | |
+| 14 (11-struct) | Struct; Union; Enum | 结构体、联合体、枚举类型 | 软件学院 16.4 节选读; 介绍 18.4 节内容 (如何解读声明语句) | 16.1 -- 16.5 |
 | 15 (12-linkedlists) | Linked Lists | | | |
 | 16 (13-networking) | Networking Programming (期末项目补充) | | | |
 
