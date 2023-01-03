@@ -55,7 +55,7 @@ either to you or to them. Make a habit of closing your laptop while you’re hel
 
 ## 抄袭的惩罚机制
 
-本课程将对抄袭采取严厉的惩罚措施。
+本课程将对抄袭采取严厉的惩罚措施。除了抄袭当次作业分数清零外，
 
 - 第一次抄袭从**总评**中扣除 $10$ 分。
 
