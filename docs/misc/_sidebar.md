@@ -13,3 +13,4 @@
   - [勇敢尝试 Linux](misc/linuxguide)
   - [附加题选讲](misc/optional)
   - [OJ 是怎么运行的？](misc/howojworks)
+  - [写给从未参加过机试的同学的机考指南 V2.0](misc/examguide)
