@@ -8,6 +8,7 @@
   - [文档要求](project/doc_req)
   - [命令行交互简易教程](project/cli_help)
   - [图形界面简易教程](project/gui_help)
+- [期末机试须知](examguide)
 - [抄袭与惩罚](plagiarize)
 - [助教与答疑](qa)
 - [C 语言开发环境](envs)
