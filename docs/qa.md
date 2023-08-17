@@ -89,7 +89,7 @@
 
 ?> 如何正确提问：[《提问的智慧》:stuck_out_tongue_winking_eye:](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md) 和 [《别像傻瓜一样提问》:frowning:](https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
-首先，在大学期间，你要有意识地“逼迫”自己养成**“遇到问题先独立思考”**的习惯，而不是逃避性地直接从别处获取答案。
+首先，在大学期间，你要有意识地“逼迫”自己养成 **“遇到问题先独立思考”** 的习惯，而不是逃避性地直接从别处获取答案。
 
 这是一个痛苦而漫长的过程，但也只有这样，你才能快速成长。
 
