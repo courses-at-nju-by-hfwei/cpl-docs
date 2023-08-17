@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="UTF-8">
+  <title>CPL-Docs@NJUSE</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="C语言程序设计基础-课程文档@南京大学软件学院">
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="./static/theme-simple-dark.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="./static/theme-simple.css">
+
+  <!-- Custom Styles -->
+  <style>
+    :root {
+      --base-font-size: 18px;
+      --link-color: #659ad2;
+      --link-color--hover: #00599c;
+      --link-text-decoration-color: var(--link-color);
+      --link-text-decoration-color--hover: var(--link-color--hover);
+      --content-max-width: 90%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">👧🙏少女祈祷中...</div>
+  <script>
+    window.$docsify = {
+      logo: '/.assets/images/C_Programming_Language_with_Title.svg',
+      name: 'C Programming Learning',
+      loadSidebar: true,
+      auto2top: true,
+      subMaxLevel: 4,
+      coverpage: true,
+      onlyCover: false,
+      search: {
+        placeholder: '搜索',
+        noData: '找不到结果!',
+      },
+      homepage: 'intro.md',
+      nameLink: '/',
+      repo: 'https://github.com/courses-at-nju-by-hfwei/cpl-docs/',
+      themeColor: '#659ad2',
+      mergeNavbar: true,
+      maxLevel: 3,
+      formatUpdated: '{YYYY}/{MM}/{DD} {HH}:{mm}:{ss}',
+      markdown: {
+        smartypants: true,
+        renderer: {
+          //...
+        }
+      },
+      tabs: {
+        persist: true,      // default
+        sync: true,      // default
+        theme: 'classic', // default
+        tabComments: true,      // default
+        tabHeadings: true       // default
+      },
+      copyCode: {
+        buttonText: '复制到剪贴板',
+        errorText: '复制失败',
+        successText: '复制成功!'
+      },
+      pagination: {
+        previousText: '上一章节',
+        nextText: '下一章节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      count: {
+        language: 'chinese',
+      },
+      // Valine: {
+      //   appId: '8OJ9ftpqzv2GnP6cKsOQmn2W-gzGzoHsz',
+      //   appKey: 'K5fVklVSa22jdRsx45PPiA71',
+      //   placeholder: '你想说点什么吗？请在“邮箱”处填写你的南大邮箱。',
+      //   avatar: 'retro',
+      //   meta: ['nick', 'mail'],
+      //   requiredFields: ['nick', 'mail'],
+      //   recordIP: true,
+      // },
+      plugins: [
+        function (hook) {
+          hook.afterEach(function (html) {
+            return (
+              html +
+              '<div style="text-align: center;"><a href="http://beian.miit.gov.cn/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none; ">苏ICP备2022043609号-1</a></div>'
+            );
+          })
+        },
+      ],
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="./static/docsify@4.js"></script>
+  <script src="./static/prism-c.js"></script>
+  <script src="./static/marked@2.js"></script>
+  <script src="./static/docsify-pagination.min.js"></script>
+  <script src="./static/docsify-themeable@0.js"></script>
+  <script src="./static/docsify-tabs@1.js"></script>
+  <script src="./static/docsify-copy-code@2.js"></script>
+  <script src="./static/external-script.min.js"></script>
+  <script src="./static/search.js"></script>
+  <script src="./static/emoji.min.js"></script>
+  <script src="./static/countable.js"></script>
+  <script src="./static/zoom-image.min.js"></script>
+  <script src="./static/katex.min.js"></script>
+  <link rel="stylesheet" href="./static/katex.min.css" />
+  <script src="./static/docsify-katex.js"></script>
+</body>
+
+</html>
