@@ -70,6 +70,8 @@
 
   - (TODO: 结合 `Windows Terminal` 来使用最方便的 Linux 子系统 `WSL` 进行 C语言代码调试)
 
+  - [WSL 的安装与使用(OI-Wiki)](https://oi-wiki.org/tools/wsl/)
+
   - [Ubuntu 虚拟机的安装与使用 (2021年录制)](https://www.bilibili.com/video/BV1vq4y1X7Wp)
 
 ## 授课视频

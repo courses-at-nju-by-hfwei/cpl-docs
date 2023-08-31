@@ -12,7 +12,7 @@
 | :---------------: | -------------------------- | ------------------------- | :---------------------------------------------------------: |
 |      蔡之恒       | VS Code / CLion            | macOS / Ubuntu            |                         (不想透露)                          |
 |      李薛成       | CLion / VS Code / Typora   | Windows 11 / WSL / Ubuntu |       [Sakiyary](https://space.bilibili.com/12502995)       |
-|      毛子钰       | Vim / Terminal             | Ubuntu 22.04              |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
+|      毛子钰       | Vim / Terminal             | Ubuntu 23.04              |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
 |       浦亮        | VS Code                    | Windows 10                |   [水龙之魂Official](https://space.bilibili.com/4780141)    |
 |      孙博文       | Vim / Makefile / bash      | Ubuntu / ArchLinux        | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
 |       肖江        | VS Code                    | Windows / Ubuntu          |                         (不想透露)                          |
@@ -53,6 +53,8 @@
 答疑地点会在每次答疑时间之前在课程群内通知。
 
 每次答疑面向特定班级组，但其它组同学若有紧急问题需要线下解决也可参加。
+
+面对代码风格较差（例如未格式化）的同学，助教有权拒绝答疑。
 
 <!-- tabs:start -->
 

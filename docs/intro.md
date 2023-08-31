@@ -98,7 +98,7 @@
 
 | 周数 | 内容 | 知识点 | 备注 | 阅读材料 |
 | ----- | ----- | ----- | ----- | ----- |
-| 3 (0-intro) | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 | 1.1、1.2；2.1、2.2、2.3|
+| 2 (0-intro) | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 4 到 8 周的内容，目的是让学生对将要学习的内容有个初步认识 | 1.1、1.2；2.1、2.2、2.3|
 <!-- | 4 (1-types-io) | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h`, `ctype.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 10 周 | 2.4--2.8；3.1--3.2；4.1--4.5；22.3；23.4、23.5 |
 | 5 (2-if-for-array) | If, For, Array | `if` 语句、初步介绍 `for` 循环语句、一维数组 | 软件学院 2 个学时内讲不了 `switch/case`（5.3），可以安排学生自学 | 5.1--5.3；6.3；8.1 |
 | 6 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break/continue` | 请务必讲解 `selection sort` 与 `binary search` (这周与下周两周内) | 6.1、6.2、6.4、6.5 |
