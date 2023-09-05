@@ -187,7 +187,7 @@
 
 ## 软件资源
 
-- [Softwares @ NJU Box](https://box.nju.edu.cn/d/32cbeb7bdda14493abba/)（都是 2022 年老版，新版待下载）
+- [Softwares @ NJU Box](https://box.nju.edu.cn/d/8c888aeb83a840ab941a/)（2023年9月上传）
 
 - [南京大学开源镜像站](http://mirrors.nju.edu.cn/)
 
