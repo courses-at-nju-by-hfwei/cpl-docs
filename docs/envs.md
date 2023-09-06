@@ -130,7 +130,7 @@ int main() {
 
   - WakaTime：统计写代码的时间
 
-  - IdeaVim：在 CLion 使用 Vim
+  - IdeaVim：在 CLion 使用 Vim，如果你还不会 Vim，请先不要启用，否则会导致无法输入的问题
 
 - VS Code
   - C/C++ Extension Pack：C 语言扩展包
@@ -139,11 +139,9 @@ int main() {
 
   - indent-rainbow：彩虹缩进
 
-  - Rainbow Brackets：彩虹括号
-
   - GitLens、Git History、Git Graph：Git GUI 扩展包
 
-  - Vim：在 VS Code 使用 Vim
+  - Vim：在 VS Code 使用 Vim，如果你还不会 Vim，请先不要启用，否则会导致无法输入的问题
 
 ?> 扩展商店里还有许多好玩好用的扩展等着你去探索!
 
