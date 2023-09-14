@@ -10,6 +10,7 @@
 - [编程风格](styles)
 - [往年 FAQ](faq/faq)
 - [杂项](misc/misc)
+  - [解答困惑](misc/answerconfusion)
   - [计算机学习的定律](misc/laws)
   - [勇敢尝试 Linux](misc/linuxguide)
   - [附加题选讲](misc/optional)
