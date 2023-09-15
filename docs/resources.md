@@ -79,7 +79,7 @@
 （软件学院）授课视频会第一时间上传至 B 站。
 欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149)。
 
-今年视频教程待发布。
+- [2023-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=1720732)
 
 - [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=735933)
 
@@ -87,7 +87,11 @@
 
 ## 课程代码
 
-今年代码仓库待定。
+- [coding-0/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2023-cpl-coding-0): 2023 级软件学院 备课代码仓库
+
+- [coding-1/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2023-cpl-coding-1)：2023 级软件学院 1 班课堂代码
+
+- [coding-2/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2023-cpl-coding-2): 2023 级软件学院 2 班课堂代码
 
 - [coding-0 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-0): 备课代码仓库
 
@@ -104,6 +108,8 @@
 <!-- tabs:start -->
 
 ### **软件学院**
+
+- [cpl-lectures/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2023)
 
 - [cpl-lectures/2022 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2022)
 
