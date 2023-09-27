@@ -56,8 +56,6 @@
 
   - 学会如何使用 GDB 来快速高效地 Debug。由于学期初代码难度不高，也许还用不上这把“牛刀”，但以后你们就懂了。
 
-  - [断点调试宝典 (Visual Studio - 郭延文)](https://box.nju.edu.cn/f/60f198c2b03b483a9c67/)
-
   - [CLion 调试器使用方法](https://www.bilibili.com/video/BV1Gm4y1F72y/)
 
 - Markdown (推荐)
