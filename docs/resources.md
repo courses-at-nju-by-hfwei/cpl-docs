@@ -6,9 +6,9 @@
 
 - [OJ (Online Judge 作业平台)](http://oj.cpl.icu)：请先观看 [OJ 使用指南](resources?id=教程视频)
 
-- ~~[Q & A 课程问答平台 (尚未就绪)](http://qa.cpl.icu)：请仔细阅读 [如何提问?](qa?id=如何提问)~~
+- [ChatGPT](https://openai.com/gpt-4)
 
-- [Stack Overflow](https://stackoverflow.com/)
+- [stackoverflow](https://stackoverflow.com/)
 
 - [C Reference](https://en.cppreference.com/w/c)
 
@@ -26,7 +26,6 @@
 可在 ["2022CPL-视频教程" 收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看往年本课程全部教程视频。
 
 ?> 以下按优先级排列。请务必仔细观看学习。</br>
-<!-- “必看”是针对软件学院的学生，技术科学试验班学生根据自己的需求自行选择。 -->
 
 - [C 语言开发环境配置](./envs)
 
@@ -57,6 +56,8 @@
   - 学会如何使用 GDB 来快速高效地 Debug。由于学期初代码难度不高，也许还用不上这把“牛刀”，但以后你们就懂了。
 
   - [CLion 调试器使用方法](https://www.bilibili.com/video/BV1Gm4y1F72y/)
+
+  - [使用 CLion 调试器调试 for 循环](https://www.bilibili.com/video/BV1AC4y1d7KX/)
 
 - Markdown (推荐)
 
@@ -100,6 +101,11 @@
 - [coding-1/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-1): 2021 级软件学院 1 班课堂代码
 
 - [coding-2/2021 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-coding-2)：2021 级软件学院 2 班课堂代码
+
+## 课外录制视频与代码
+
+- [CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=845283)
+- [cpl-out-of-class @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-out-of-class)
 
 ## 课程课件
 
