@@ -7,7 +7,7 @@
 - [助教与答疑](qa)
 - [C 语言开发环境](envs)
 - [课程资源](resources)
-- [机考须知](examguide)
+- [机试须知](examguide)
 - [编程风格](styles)
 - [往年 FAQ](faq/faq)
   - [UB](faq/ub)
