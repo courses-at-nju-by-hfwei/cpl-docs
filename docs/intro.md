@@ -100,15 +100,15 @@
 | ----- | ----- | ----- | ----- | ----- |
 | 2 (0-intro) | Introducing C | 课程简介、 演示开发环境、`hello-world`、 `Game: Guess the Number` | `Game: Guess the Number` 涉及到第 3 到 7 周的内容，目的是让学生对将要学习的内容有个初步认识 | 1.1、1.2；2.1、2.2、2.3|
 | 3 (1-types-io) | Variables, Types, I/O | Variables, Data Types; Operators, Expressions, Assignment Statements; `int`, `double`, `char`, `C string`; `printf`, `scanf`; `math.h`, `ctype.h` | 本次课程不讲授 `float`、`unsigned` 等 C 语言中初学者容易犯错的知识点, 留到第 8 周 | 2.4--2.8；3.1--3.2；4.1--4.5；22.3；23.4、23.5 |
-| 4 (2-if-for-array) | If, For, Array | `if` 语句、初步介绍 `for` 循环语句、初步介绍一维数组 | 软件学院 2 个学时内讲不了 `switch/case`（5.3），请大家自学 (<small>蚂蚁蚂蚁</small>不承诺录制课外视频) | 5.1--5.3；6.3；8.1 |
-| 5 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break` | 请**务必**讲解 `selection sort` 与 `binary search` (这周与下周两周内); 软件学院课上来不及介绍 `continue`, 请大家自学 | 6.1、6.2、6.4、6.5 |
-| 6 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; 二维数组 | *建议*讲解 Conway's Game of Life; 请**务必**讲解 `Merge sort` 中的 `merge` 方法 | 8.2、8.3 |
-| 7 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选, 或许会录制短视频讲解 | 9.1 -- 9.5、10.1 -- 10.5 |
-| 8 (6-recursion) | Recursion | 递归的概念与举例 | 建议介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
-| 9 (7-data-types) | Data Types | 基本数据类型; 与数据类型相关的安全编程 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
+| 5 (2-if-for-array) | If, For, Array | `if` 语句、初步介绍 `for` 循环语句、初步介绍一维数组 | 软件学院 2 个学时内讲不了 `switch/case`（5.3），请大家自学 (<small>蚂蚁蚂蚁</small>不承诺录制课外视频) | 5.1--5.3；6.3；8.1 |
+| 6 (3-for-a-while) | For, While, Do-While | 更多 `for` 例子、`while` 与 `do-while` 语句、`break` | 请**务必**讲解 `selection sort` 与 `binary search` (这周与下周两周内); 软件学院课上来不及介绍 `continue`, 请大家自学 | 6.1、6.2、6.4、6.5 |
+| 7 (4-loops) | Loops; Multi-dimensional Arrays | More examples on loops; 二维数组 | *建议*讲解 Conway's Game of Life; 请**务必**讲解 `Merge sort` 中的 `merge` 方法 | 8.2、8.3 |
+| 8 (5-function) | Function; Scopes | 函数的概念与使用; 作用域与程序结构 | 9.7 内容可选, 或许会录制短视频讲解 | 9.1 -- 9.5、10.1 -- 10.5 |
+| 10 (6-recursion) | Recursion | 递归的概念与举例 | *建议*介绍 `merge-sort`; 本节内容不作过多要求 | 9.6 |
+| 11 (7-data-types) | Data Types | 基本数据类型; 与数据类型相关的安全编程 | 介绍 Undefined Behaviors (最迟在此次课介绍) | 7.1 -- 7.6 |
+| 12 (8-pointers-arrays) | Pointers | 指针的基本概念，指针与一维数组，动态内存分配 | | 11.1 -- 11.5；12.1 -- 12.3；17.1 -- 17.4 |
+| 13 (9-pointers-c-strings) | Pointers and C Strings | 指针与字符串 | | 12.4；13.1 -- 13.6 |
 <!--
-| 10 (8-pointers-arrays) | Pointers | 指针的基本概念，指针与一维数组，动态内存分配 | | 11.1 -- 11.5；12.1 -- 12.3；17.1 -- 17.4 |
-| 11 (9-pointers-c-strings) | Pointers and C Strings | 指针与字符串 | | 12.4；13.1 -- 13.6 |
 | 12 (10-double-pointers) | Double Pointers | 指针与字符串数组、命令行参数、指针与二维数组、函数指针 | | 12.4；13.7；17.6、17.7 |
 | 13 (11-struct) | Struct; Union; Enum | 结构体、联合体、枚举类型 | 软件学院 16.4 节选读; 介绍 18.4 节内容 (如何解读声明语句) | 16.1 -- 16.5 |
 | 14 (12-linkedlists) | Linked Lists | | | |
