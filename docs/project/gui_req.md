@@ -17,6 +17,7 @@
 在白名单中的 C 语言图形库：
 
 - [SDL](http://www.libsdl.org/)
+- [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php)
 - [raylib](https://www.raylib.com/)
 - [PainterEngine](https://www.painterengine.com/)
 
