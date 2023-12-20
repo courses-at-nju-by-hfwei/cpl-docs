@@ -6,7 +6,7 @@
 
 **记得别用不允许使用的图形库！**
 
-[⭐2023版 SDL 教程（正在由 Fradow 制作中……敬请期待）](404)
+[⭐2023版 SDL 教程 - 20分钟速通基本操作](https://www.bilibili.com/video/BV1gi4y1Y71f/)
 
 [2022版 SDL2 @ CLion | VSC | VS 配置教程](https://www.bilibili.com/video/BV1w841157uD/)
 
