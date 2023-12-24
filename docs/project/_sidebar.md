@@ -14,5 +14,5 @@
 - [课程资源](resources)
 - [机试须知](examguide)
 - [编程风格](styles)
-- [FAQ](faq/faq)
+- [往年 FAQ](faq/faq)
 - [杂项](misc/misc)
