@@ -16,4 +16,4 @@
 |  09   | 2023-11-17 周五 | 2023-11-29 周三 |       7-data-types        | 基本数据类型; 与数据类型相关的安全编程              | [点击查看](https://box.nju.edu.cn/f/9e703b8335b149b2a4f0/) | 共 8 题    |
 |  10   | 2023-11-26 周日 | 2023-12-04 周一 |     8-pointers-arrays     | 指针的基本概念，指针与一维数组，动态内存分配        | [点击查看](https://box.nju.edu.cn/f/f939ccebf9004a1b97c2/) | 共 3 题    |
 |  11   | 2023-12-02 周六 | 2023-12-11 周一 |   9-pointers-c-strings    | 指针与字符串                                        | [点击查看](https://box.nju.edu.cn/f/6fb95fb54f244300a0a6/) | 共 4 题    |
-|  12   | 2023-12-15 周五 | 2023-12-29 周五 | 10-double-pointers-struct | 双重指针与结构体                                    | 别急                                                       | 共 4 题    |
+|  12   | 2023-12-15 周五 | 2023-12-29 周五 | 10-double-pointers-struct | 双重指针与结构体                                    | [点击查看](https://box.nju.edu.cn/f/29c8a7ef64d84412a272/) | 共 4 题    |
