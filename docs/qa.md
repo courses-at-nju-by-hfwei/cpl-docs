@@ -10,7 +10,7 @@
 
 |               姓名 (按姓氏排序)               |    年级    | 擅长工具            | 使用的系统         |                        Bilibili 账号                        |
 | :-------------------------------------------: | :--------: | ------------------- | ------------------ | :---------------------------------------------------------: |
-| [孙博文（已退休）](https://s.tilnel.com/)    | 23 级研究生 | Vim / Shell Script  | Ubuntu 22.04       | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
+| [孙博文（已退休）](https://tilnel.github.io/) | 23 级研究生 | Vim / Shell Script  | Ubuntu 24.04       | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
 |               蔡之恒（已退休）                | 20 级本科生 | VS Code / CLion     | macOS / Ubuntu     |                                                             |
 |                    扈晨曦                     | 22 级本科生 | CLion               | Windows 11         |                                                             |
 |                    李薛成                     | 21 级本科生 | VS Code / Jetbrains | Windows 11 / WSL   |       [Sakiyary](https://space.bilibili.com/12502995)       |
