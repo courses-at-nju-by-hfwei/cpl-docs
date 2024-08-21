@@ -15,7 +15,7 @@
 |                    扈晨曦                     | 22 级本科生 | CLion               | Windows 11         |                                                             |
 |                    李薛成                     | 21 级本科生 | VS Code / Jetbrains | Windows 11 / WSL   |       [Sakiyary](https://space.bilibili.com/12502995)       |
 |                    刘治元                     | 22 级本科生 | CLion / Vim / Zsh   | Windows 11 / WSL   |       [baka幻想](https://space.bilibili.com/8002700)        |
-| [毛子钰](https://www.lamda.nju.edu.cn/maozy/) | 23 级研究生 | Vim / Terminal      | Ubuntu 23.04       |    [计算鸡磕雪茄](https://space.bilibili.com/454302264)     |
+| [毛子钰（已退休）](https://mzy0624.github.io/)| 23 级研究生 | Vim / VS Code       | Ubuntu 24.04       |    [灰原AIIIIIIII](https://space.bilibili.com/454302264)     |
 |                     浦亮                      | 23 级研究生 | VS Code             | Windows 10         |   [水龙之魂Official](https://space.bilibili.com/4780141)    |
 |                     肖江                      | 21 级研究生 | VS Code             | Windows / Ubuntu   |                                                             |
 |                    熊丘桓                     | 20 级本科生 | VS Code / Dev-C++   | Windows 10         |      [雁卷西楼](https://space.bilibili.com/679618337)       |
