@@ -2,7 +2,7 @@
 
 ## 须知
 
-使用了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架，目前部署在腾讯云上，通过 http://docs.cpl.icu/2023 访问。
+使用了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架，目前部署在腾讯云上，通过 http://docs.cpl.icu/ 访问。
 
 基础语法为 Markdown，有部分 docsify 扩展语法与插件，项目配置文件为 [docs/index.html](docs/index.html)。
 
