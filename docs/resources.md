@@ -6,6 +6,8 @@
 
 - [OJ (Online Judge 作业平台)](http://oj.cpl.icu)：请先观看 [OJ 使用指南](resources?id=教程视频)
 
+- [飞书文档(课程讲义)](https://ymv59wdgrr.feishu.cn/wiki/A1HzwviAgiFnQwkfRUWcVjqunLf)：提供一些图文教程作为课堂的补充，在飞书平台上持续更新
+
 - [ChatGPT](https://openai.com/gpt-4)
 
 - [stackoverflow](https://stackoverflow.com/)
