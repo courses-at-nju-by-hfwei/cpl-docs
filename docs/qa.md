@@ -26,7 +26,6 @@
 |                  熊丘桓                   | 24 级软院研究生 | VS Code / Dev-C++         | Windows 10                | TA-EagleBear  |  3   |             [雁卷西楼](https://space.bilibili.com/679618337)              |
 |                  余明晖                   | 22 级软院本科生 | VS Code                   | Windows 11 / WSL          | TA-ymhui      |  0   |                                                                       |
 |                  张哲恺                   | 21 级软院本科生 | VS Code                   | Windows 11 / WSL          | TA-Corax      |  2   |            [不理发的小粉毛](https://space.bilibili.com/330247538)            |
-|                蔡之恒（已退休）                |  20 级本科生  | VS Code / CLion           | macOS / Ubuntu            |               |
 | [孙博文（已退休）](https://tilnel.github.io/)  |  23 级研究生  | Vim / Shell Script        | Ubuntu 24.04              |               |      |         [小木曾せつなOfficial](https://space.bilibili.com/12896246)         |
 |                肖江（已退休）                 |  21 级研究生  | VS Code                   | Windows / Ubuntu          |               |
 | [毛子钰（已退休）](https://mzy0624.github.io/) |  23 级研究生  | Vim / VS Code             | Ubuntu 24.04              |               |      |          [灰原AIIIIIIII](https://space.bilibili.com/454302264)          |
