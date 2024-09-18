@@ -49,7 +49,8 @@
 
 ### **软件学院**
 
-周五 7-8 节 3-17 周 费彝民楼 A-318
+- 周五 7-8 节 3-17 周 费彝民楼 A-318
+	- [腾讯会议: 724-5404-3881](https://meeting.tencent.com/dm/ZFU47hkkPgxX)
 
 <!-- ![2022-CPL-Software](.assets/images/2022-CPL-Software.svg ':size=60%') -->
 
@@ -65,7 +66,8 @@
 
 - 5 班：周五 2-4 节 3-17 周 新教学楼-207
 
-- 6 班：周五 9-11 节 3-17 周 费彝民楼 A-302
+- 6 班：周五 9-11 节 3-17 周 费彝民楼 A-318
+  - [腾讯会议: 884-4770-1358](https://meeting.tencent.com/dm/pC25I6sbAybt)
 
 <!-- ![2022-CPL-SuZhou](.assets/images/2022-CPL-SuZhou.svg ':size=60%') -->
 
