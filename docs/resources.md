@@ -23,7 +23,7 @@
 助教会将教程视频上传至各自的 B 站空间。
 欢迎关注 [助教们的账号 @ Bilibili](qa?id=助教团队)。
 
-可在 ["2022CPL-视频教程" 收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看往年本课程全部教程视频。
+可在 ["CPL" 视频教程收藏夹 @ ant-hengxin](https://www.bilibili.com/medialist/detail/ml1760368949) 中查看往年本课程全部教程视频。
 
 ?> 以下按优先级排列。请务必仔细观看学习。</br>
 
@@ -78,6 +78,8 @@
 （软件学院）授课视频会第一时间上传至 B 站。
 欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149)。
 
+- [2024-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=4380843)
+
 - [2023-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=1720732)
 
 - [2022-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=735933)
@@ -112,6 +114,8 @@
 <!-- tabs:start -->
 
 ### **软件学院**
+
+- [cpl-lectures/2024 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2024)
 
 - [cpl-lectures/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/cpl-lectures/blob/main/2023)
 
@@ -172,6 +176,18 @@
   阅读本书有助于深入理解 C 语言。
 
   可用于学期末对照检查。
+
+- **Modern C, Jens Gustedt**
+
+  作者是 C 语言标准文档的联合编辑。
+
+  按 "邂逅"、"相识"、"相知"、"深入" 四个层级介绍 C 语言相关内容。
+
+- **Effective C, Robert C. Seacord**
+
+  作者是 C 语言标准委员会专家。
+
+  对 C 语言的基础概念有很好的介绍。
 
 - **华为 C 语言编程指南**
 
