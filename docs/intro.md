@@ -121,9 +121,9 @@
 每次课后，会在 GitHub 上提交完整的代码文件。
 
 ## 课程讲义
-本学期CPL课程新增[【课程讲义】](https://ymv59wdgrr.feishu.cn/wiki/A1HzwviAgiFnQwkfRUWcVjqunLf)，提供一些图文教程作为课堂的补充，将在飞书平台上持续更新。
+本学期 CPL 课程新增[【课程讲义】](https://ymv59wdgrr.feishu.cn/wiki/A1HzwviAgiFnQwkfRUWcVjqunLf)，提供一些图文教程作为课堂的补充，将在飞书平台上持续更新。
 
-浏览器可直接访问；手机QQ若无法直接访问，可复制链接到浏览器打开。
+浏览器可直接访问；手机 QQ 若无法直接访问，可复制链接到浏览器打开。
 
 大家可持续关注更新。如有建议/补充/勘误，也欢迎各位指出~
 
