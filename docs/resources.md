@@ -80,7 +80,7 @@
 （软件学院）授课视频会第一时间上传至 B 站。
 欢迎关注 [ant-hengxin @ Bilibili](https://space.bilibili.com/479141149)。
 
-- [2024-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/seriesdetail?sid=4380843)
+- [2024-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=3869554)
 
 - [2023-CPL 视频教程 @ Bilibili](https://space.bilibili.com/479141149/channel/collectiondetail?sid=1720732)
 
