@@ -1,6 +1,6 @@
 # C 语言开发环境
 
-?> **此为本课程最重要的前置任务，请务必在第一次课（2024年9月20日）之前完成 ！！！** </br>
+?> **此为本课程最重要的前置任务，请务必在第一次课之前完成 ！！！** </br>
 
 <small>最后更新于 {docsify-updated}。</small>
 
@@ -66,6 +66,9 @@
 感谢 IT 侠们。
 
 ### 2. 配置 C 语言开发环境 <!-- {docsify-ignore} -->
+
+[(最新版)飞书课堂讲义——准备开发环境](https://ymv59wdgrr.feishu.cn/wiki/ZLmJwSITiigRyEkyepwc24EQn1b)：包含了 VS Code / CLion 环境配置、常用工具介绍等。
+**请在课前务必仔细阅读本讲义！！！**
 
 [Jetbrains 学生认证 + Toolbox 安装 CLion (2022 年录制，全平台通用)](https://www.bilibili.com/video/BV1Bd4y1G7a1)
 

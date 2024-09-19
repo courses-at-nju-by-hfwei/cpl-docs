@@ -6,26 +6,32 @@
 
 <!-- tabs:start -->
 
-### **软件学院**
 
-| 姓名 (按姓氏排序) | 年级 | 擅长工具 | 使用的系统 | Bilibili 账号 |
-| :---: | :---: | --- | --- | :---: |
-| 扈晨曦 | 22 级本科生 | CLion | Windows 11 | |
-| 李薛成 | 21 级本科生 | VS Code | Windows 11 / WSL | [Sakiyary](https://space.bilibili.com/12502995) |
-| 刘治元 | 22 级本科生 | CLion / Vim / Zsh | Windows 11 / WSL | [baka幻想](https://space.bilibili.com/8002700) |
-| 浦亮 | 23 级研究生 | VS Code | Windows 10 | [水龙之魂Official](https://space.bilibili.com/4780141) |
-| 熊丘桓 | 20 级本科生 | VS Code / Dev-C++ | Windows 10 | [雁卷西楼](https://space.bilibili.com/679618337) |
-| 张哲恺 | 21 级本科生 | VS Code | Windows 11 | [不理发的小粉毛](https://space.bilibili.com/330247538) |
-| 蔡之恒（已退休） | 20 级本科生 | VS Code / CLion | macOS / Ubuntu | |
-| [孙博文（已退休）](https://tilnel.github.io/) | 23 级研究生 | Vim / Shell Script | Ubuntu 24.04 | [小木曾せつなOfficial](https://space.bilibili.com/12896246) |
-| 肖江（已退休） | 21 级研究生 | VS Code | Windows / Ubuntu | |
-| [毛子钰（已退休）](https://mzy0624.github.io/) | 23 级研究生 | Vim / VS Code | Ubuntu 24.04 | [灰原AIIIIIIII](https://space.bilibili.com/454302264) |
-
-### **技术科学试验班**
-
-| 班级 | 任课教师 | 姓名 | 擅长工具 | 使用的系统 |
-| :---: | :---: | :---: | --- | --- |
-| TODO | TODO | TODO | TODO | TODO |
+| 姓名 (按姓氏排序) |    年级     |           擅长工具            |           使用的系统           | 教龄/年 |                              Bilibili 账号                              |
+|:----------:|:---------:|:-------------------------:|:-------------------------:|:----:|:---------------------------------------------------------------------:|
+|     顾龙     | 23 级软院研究生 |           CLion           |      MacOS / Ubuntu       |  0   |                                                                       |
+|    顾益铭     | 22 级软院本科生 |      CLion / Dev-C++      |     Windows 11 / WSL      |  0   |                                                                       |
+|    扈晨曦     | 22 级软院本科生 |           CLion           |    Windows 11 / Ubuntu    |  1   |                                                                       |
+|    李和煦     | 23 级软院研究生 |           CLion           |     Windows 11 / WSL      |  0   |                                                                       |
+|    李薛成     | 21 级软院本科生 |       VS Code / Zsh       |     Windows 11 / WSL      |  2   |            [Sakiyary](https://space.bilibili.com/12502995)            |
+|    梁志浩     | 22 级信计本科生 |      VS Code / Clion      |     Windows 11 / WSL      |  0   |                                                                       |
+|    刘存玺     | 22 级软院本科生 | VS Code / Clion / Dev-C++ |    Windows 11 / Ubuntu    |  0   |          [huoxj-runz](https://space.bilibili.com/166337394)           |
+|    刘治元     | 22 级软院本科生 |     CLion / Vim / Zsh     |     Windows 11 / WSL      |  1   |             [baka幻想](https://space.bilibili.com/8002700)              |
+|    柳永昊     | 21 级软院本科生 |        CLion / Vim        |    Windows11 / Ubuntu     |  0   |                                                                       |
+|    罗荣鑫     | 23 级软院本科生 |  VS Code / Sublime Text   |  Windows 11 / Arch Linux  |  0   |                                                                       |
+|     宁锐     | 22 级软院本科生 |          NeoVim           |      MacOS / Ubuntu       |  0   |                                                                       |
+|    潘星宇     | 22 级软院本科生 |          VS Code          |      Windows11 / WSL      |  0   |                                                                       |
+|     浦亮     | 23 级计院研究生 |          VS Code          |        Windows 10         |  3   |          [水龙之魂Official](https://space.bilibili.com/4780141)           |
+|    钱品亦     | 23级软院研究生  |      Dev-C++/VS Code      |  Windows 10 / WSL / WSL2  |  0   |                                                                       |
+|    乔昕雨     | 23 级软院本科生 |      VS Code / CLion      |        Windows 11         |  0   | [北沐沐沐清](https://space.bilibili.com/38787313?spm_id_from=333.1007.0.0) |
+|    王思齐     | 22 级智软本科生 |  VS Code / CLion / Fish   | Nix / Ubuntu / Windows 10 |  1   |                                                                       |
+|    王颖琪     | 23 级软院本科生 |           CLion           |        Windows 11         |  0   |                                                                       |
+|    熊丘桓     | 24 级软院研究生 |     VS Code / Dev-C++     |        Windows 10         |  3   |             [雁卷西楼](https://space.bilibili.com/679618337)              |
+|    余明晖     | 22 级软院本科生 |          VS Code          |      Windows11 / WSL      |  0   |                                                                       |
+|    张哲恺     | 21 级软院本科生 |          VS Code          |     Windows 11 / WSL      |  2   |            [不理发的小粉毛](https://space.bilibili.com/330247538)            |
+| [孙博文（已退休）](https://tilnel.github.io/)  |  23 级研究生  |    Vim / Shell Script     |       Ubuntu 24.04        |      |         [小木曾せつなOfficial](https://space.bilibili.com/12896246)         |
+|                肖江（已退休）                 |  21 级研究生  |          VS Code          |     Windows / Ubuntu      |
+| [毛子钰（已退休）](https://mzy0624.github.io/) |  23 级研究生  |       Vim / VS Code       |       Ubuntu 24.04        |      |          [灰原AIIIIIIII](https://space.bilibili.com/454302264)          |
 
 <!-- tabs:end -->
 
