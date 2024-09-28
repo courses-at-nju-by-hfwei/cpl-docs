@@ -31,9 +31,9 @@
 
 - 2 班：冯洋
 
-- 3 班：王慧妍
+- 3 班：[王慧妍](http://www.why.ink:8080/)
 
-- 4 班：杨已彪
+- 4 班：[杨已彪](https://yangyibiao.github.io/cpl/)
 
 - 5 班：陈鑫
 
