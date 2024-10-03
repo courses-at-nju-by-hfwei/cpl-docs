@@ -11,7 +11,7 @@
 > Premature optimization is the root of all evil.  --Knuth
 
 
-## E 超级计算器
+## 超级计算器
 
 首先有一个数据类型来保存超长数字。然后是对数据类型的操作。
 
