@@ -90,6 +90,10 @@
 
 ## 课程代码
 - [coding/2024 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2024-cpl-coding): 2024 级 备课代码仓库
+  - [代码 PDF 文件](https://github.com/courses-at-nju-by-hfwei/2024-cpl-coding/tree/main/pdf)
+  - [代码模板文件](https://github.com/courses-at-nju-by-hfwei/2024-cpl-coding/tree/main/template)
+- [coding-0](https://github.com/courses-at-nju-by-hfwei/2024-cpl-coding-0)：2024 级 软件学院代码仓库
+- [coding-6](https://github.com/courses-at-nju-by-hfwei/2024-cpl-coding-6)：2024 级 技术科学试验班 6 班代码仓库
 
 ---
 - [coding-0/2023 @ GitHub](https://github.com/courses-at-nju-by-hfwei/2023-cpl-coding-0): 2023 级软件学院 备课代码仓库
