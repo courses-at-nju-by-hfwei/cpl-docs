@@ -32,7 +32,7 @@
 |                     张哲恺                     | 21 级软院本科生 |          VS Code          |      Windows 11 / WSL       |    2    |           [不理发的小粉毛](https://space.bilibili.com/330247538)           |
 | [孙博文（已退休）](https://tilnel.github.io/)  |   23 级研究生   |    Vim / Shell Script     |        Ubuntu 24.04         |         |        [小木曾せつなOfficial](https://space.bilibili.com/12896246)         |
 |                 肖江（已退休）                 |   21 级研究生   |          VS Code          |      Windows / Ubuntu       |
-| [毛子钰（已退休）](https://mzy0624.github.io/) |   23 级研究生   |       Vim / VS Code       |        Ubuntu 24.04         |         |           [灰原AIIIIIIII](https://space.bilibili.com/454302264)            |
+| [毛子钰（已退休）](https://mzy0624.github.io/) |   23 级研究生   |       Vim / VS Code       |        Ubuntu 24.04         |         |                                                                            |
 
 <!-- tabs:end -->
 
