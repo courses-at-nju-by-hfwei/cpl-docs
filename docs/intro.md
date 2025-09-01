@@ -2,7 +2,7 @@
 
 <small>最后更新于 {docsify-updated}。</small>
 
-## 课程信息
+## 基本信息
 
 - **课程名称：** C 语言程序设计基础 (C Programming Language)
 
@@ -28,15 +28,15 @@
 
 ?> 该网址需**连接校园网**才可访问。校外访问请使用 https://public.oj.cpl.icu/.
 
-### 课程讲义
+### Wiki
 
-[【课程讲义】](https://njusecourse.feishu.cn/wiki/A1HzwviAgiFnQwkfRUWcVjqunLf)提供一些图文教程作为课堂的补充，将在飞书平台上持续更新。
+[【Wiki】](https://njusecourse.feishu.cn/wiki/A1HzwviAgiFnQwkfRUWcVjqunLf)上记录了在学习 CPL 时你需要知道的内容，提供丰富的图文教程作为课堂外补充，将在飞书平台上持续更新。
 
 浏览器可直接访问；手机 QQ 若无法直接访问，可复制链接到浏览器打开。
 
 大家可持续关注更新。如有建议/补充/勘误，也欢迎各位指出~
 
-?> 课程讲义是上课的一个重要辅助工具，内含**课堂讲义、基础教程、工具精讲、经验分享**等多个板块，</br>
+?> Wiki 是上课的一个重要辅助工具，内含**课程须知、课堂讲义、作业题解、编程之道、工具选讲、电脑使用**等多个板块，</br>
 是 CPL 课程的重要组成部分，鼓励同学们在课余时间多阅读、多思考。
 
 ### 教学答疑 AI 助手
