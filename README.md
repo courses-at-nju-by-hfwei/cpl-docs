@@ -1,33 +1,34 @@
-# CPL 课程文档仓库
+# CPL 课程网站
 
-## 须知
+使用 [Docsify](https://docsify.js.org/) 渲染 Markdown，由 Nginx 提供静态文件。网站地址为 <https://docs.cpl.icu/>。
 
-使用了 [docsify](https://docsify.js.org/#/zh-cn/) 的框架，目前部署在腾讯云上，通过 http://docs.cpl.icu/ 访问。
+## 学年与归档
 
-基础语法为 Markdown，有部分 docsify 扩展语法与插件，项目配置文件为 [docs/index.html](docs/index.html)。
+`2026` 是当前学年的默认分支。根路径展示本学年课程；`/2025/`、`/2024/`、`/2023/`、`/2022/` 展示相应学年的归档。`/dotoj/` 是独立的 OJ 文档。
 
-在服务器上部署该文档网页：（以下方法已弃用，已通过 nginx 部署）
+归档目录不参与当前学年的自动更新。建立归档时，应保存服务器上实际部署的文件及修改时间，包括没有进入 Git 的资源；只调整站内路径，使归档的首页和图片仍指向对应学年。
 
-````bash
-    npm i docsify-cli -g
-    npm i http-server -g
-    git clone <本项目地址>
-    cd /cpl-docs/docs/
-    nohup http-server -p 80 &
-    exit
-````
+## 编辑位置
 
-更新时只需要 `git pull` 就可以热更新，不需要重启进程。
+- `docs/intro.md`：课程基本信息、授课安排、教材和资源入口。
+- `docs/_coverpage.md`：封面及快捷入口。
+- `docs/index.html`：页面标题、Docsify 配置和样式。
+- `docs/static/`、`docs/.assets/`：本地脚本、样式和图片。
 
-目前服务器使用定时任务，每十分钟更新一次。
+更新课表时核对班级、星期、节次、教学周与教室，不用新学年的信息覆盖历史分支。
 
-在本地部署该文档网页：
+## 本地预览
 
-````bash
-    npm i docsify-cli -g
-    git clone <本项目地址>
-    cd /cpl-docs/
-    docsify serve docs
-````
+在仓库根目录运行：
 
-往年的文档在不同分支下。
+```sh
+python3 -m http.server 3000 --directory docs --bind 127.0.0.1
+```
+
+然后访问 <http://127.0.0.1:3000/>。网站直接读取 Markdown，不需要构建。
+
+## 部署更新
+
+当前网站部署目录跟踪 `origin/2026`。更新使用 `git pull --ff-only`，遇到分支分叉或未提交修改时先检查，不强制覆盖。
+
+发布前检查桌面和手机布局、课表及资源链接，并确认各历史路径和 `/dotoj/` 仍可访问。
